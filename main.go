@@ -13,6 +13,8 @@ func main() {
 	router := gin.Default()
 	router.GET("/randomCocktail", RandomCocktail)
 	router.GET("/randomDinner", RandomDinner)
+	router.GET("/getCocktails", GetCocktails)
+	router.GET("/getDinner", GetDinner)
 	router.Run()
 	// webscraper()
 }

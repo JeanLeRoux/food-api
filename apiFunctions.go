@@ -5,6 +5,7 @@ import (
 	"io/ioutil"
 	"math/rand"
 	"net/http"
+	"strconv"
 
 	"github.com/gin-gonic/gin"
 )
@@ -22,6 +23,11 @@ type recipe struct {
 	Ingredients        [][]string `json:"Ingredients"`
 	IngredientHeadings []string   `json:"IngredientHeadings"`
 	Method             []string   `json:"Method"`
+}
+
+type recipeBatch struct {
+	Recipes []recipe `json:"Recipes"`
+	LastId  int      `json:"LastId"`
 }
 
 // type recipeSummary struct {
@@ -65,4 +71,32 @@ func RandomDinner(ginReturn *gin.Context) {
 		}
 	}
 
+}
+
+func GetCocktails(ginReturn *gin.Context) {
+	ginReturn.Writer.Header().Set("Access-Control-Allow-Origin", "*")
+	cocktailId, _ := strconv.Atoi(ginReturn.Query("LastId"))
+	cocktails := []recipe{}
+	file, _ := ioutil.ReadFile("recipes/cocktails.json")
+	_ = json.Unmarshal([]byte(file), &cocktails)
+	batch := recipeBatch{
+		Recipes: cocktails[cocktailId : cocktailId+10],
+		LastId:  cocktailId + 10,
+	}
+
+	ginReturn.IndentedJSON(http.StatusOK, batch)
+}
+
+func GetDinner(ginReturn *gin.Context) {
+	ginReturn.Writer.Header().Set("Access-Control-Allow-Origin", "*")
+	dinnerId, _ := strconv.Atoi(ginReturn.Query("LastId"))
+	dinnerRecipes := []recipe{}
+	file, _ := ioutil.ReadFile("recipes/dinner.json")
+	_ = json.Unmarshal([]byte(file), &dinnerRecipes)
+	batch := recipeBatch{
+		Recipes: dinnerRecipes[dinnerId : dinnerId+10],
+		LastId:  dinnerId + 10,
+	}
+
+	ginReturn.IndentedJSON(http.StatusOK, batch)
 }

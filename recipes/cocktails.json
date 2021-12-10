@@ -1,0 +1,4747 @@
+[
+ {
+  "Id": 1,
+  "Name": "Hurricane cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/hurricane-62b2c43.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 10,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 2",
+  "Description": "Our tropical, rum-based hurricane cocktail is easy to make and sure to get your party started. Garnish with orange and cocktail cherries for a kitsch touch",
+  "Ingredients": [
+   [
+    "50ml dark rum",
+    "50ml white rum",
+    "1 passion fruit",
+    "1 orange , juiced",
+    "1 lemon , juiced",
+    "50ml sugar syrup",
+    "2 tsp grenadine"
+   ],
+   [
+    "4 cocktail cherries",
+    "2 orange slices"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "To garnish"
+  ],
+  "Method": [
+   "Fill a cocktail shaker with ice then add the rums. Scoop the flesh and seeds from the passion fruit and add to the shaker along with the orange and lemon juices, sugar syrup and grenadine. ",
+   "Shake well until the outside of the cocktail shaker feels icy cold. Fill two hurricane glasses with fresh ice then double strain the drink into the prepared glasses.   ",
+   "Garnish each one with an orange slice skewered onto a cocktail stick and a couple of cocktail cherries. "
+  ]
+ },
+ {
+  "Id": 2,
+  "Name": "Sex on the beach cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/sex_on_the_beach-621ae6e.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.800000190734863,
+  "Ratings": 18,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 2",
+  "Description": "Combine vodka with peach schnapps and cranberry juice to make a classic sex on the beach cocktail. Garnish with cocktail cherries and orange slices",
+  "Ingredients": [
+   [
+    "ice",
+    "50ml vodka",
+    "25ml peach schnapps",
+    "2 oranges, juiced, plus 2 slices to garnish",
+    "50ml cranberry juice",
+    "glacé cherries, to garnish (optional)"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Fill two tall glasses with ice cubes. Pour the vodka, peach schnapps and fruit juices into a large jug and stir.",
+   "Divide the mixture between the two glasses and stir gently to combine. Garnish with the cocktail cherries and orange slices."
+  ]
+ },
+ {
+  "Id": 3,
+  "Name": "Jessica rabbit cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/03/jessica-rabbit-f053c39.jpg?quality=90\u0026resize=556,505",
+  "Stars": 5,
+  "Ratings": 2,
+  "Times": [
+   "Cook:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Plenty of fresh ingredients lift this simple mezcal cocktail to create a sweet, light and wonderfully balanced drink",
+  "Ingredients": [
+   [
+    "2 strawberries",
+    "2 cherry tomatoes, plus 1 extra, to garnish",
+    "10ml agave syrup",
+    "20ml fresh lime juice",
+    "30ml espadin mezcal",
+    "20ml blanco tequila",
+    "20ml pineapple juice",
+    "ice",
+    "fresh mint sprig, to garnish"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put the strawberries, tomatoes, agave and lime juice in the bottom of a cocktail shaker and muddle together. Add the mezcal, tequila and pineapple juice and fill with ice.",
+   "Shake hard to create a nice foam head on the drink and fine strain into a martini glass or coupette. Garnish with a mint sprig inserted into a cherry tomato."
+  ]
+ },
+ {
+  "Id": 4,
+  "Name": "Hugo cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/05/hugo-cocktail-2956cdd.jpg?quality=90\u0026resize=556,505",
+  "Stars": 4,
+  "Ratings": 1,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Refreshing, floral and herbal, the hugo cocktail is perfect for warm summer evenings. Make this simple spritz with prosecco and a dash of ginRECIPE TIPS",
+  "Ingredients": [
+   [
+    "small handful of mint leaves, plus 1 mint sprig to garnish",
+    "20ml elderflower cordial",
+    "20ml gin (see tip below)",
+    "ice",
+    "25ml soda water",
+    "120ml prosecco",
+    "1 lime wedge, to garnish"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Gently scrunch the mint in your hands to lightly bruise it, then put in the bottom of a large wine glass. Pour over the elderflower cordial and gin and leave to infuse for 1-2 mins.",
+   "Fill the glass with ice, then pour over the soda water and prosecco. Stir gently to combine. Garnish with the lime wedge and mint sprig before serving."
+  ]
+ },
+ {
+  "Id": 5,
+  "Name": "White rabbit cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/white-rabbit-1ad128e.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.5,
+  "Ratings": 4,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 2",
+  "Description": "Enjoy a springtime twist on a brandy alexander with a white rabbit cocktail. It's a blend of amaretto, cream, lemon curd and vanilla, finished with flowers",
+  "Ingredients": [
+   [
+    "80ml gin",
+    "50ml amaretto",
+    "50ml double cream",
+    "1 tsp lemon curd",
+    "¼ tsp  vanilla paste",
+    "handful of ice",
+    "edible flowers , to serve"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put the gin, amaretto, double cream, lemon curd and vanilla paste into a cocktail shaker with a handful of ice and shake until the outside of the shaker feels very cold. Strain into two small cocktail or coupe glasses and garnish with edible flowers before serving."
+  ]
+ },
+ {
+  "Id": 6,
+  "Name": "Gimlet cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/gimlet-d8b20bd.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 2,
+  "Times": [
+   "Prep:5 mins",
+   "plus 15 mins if making syrup"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "(easily doubled)",
+  "Description": "Make a classic gimlet, combining gin and lime syrup, stirred to the perfect dilution with lots of ice. A refreshing cocktail to enjoy with friends",
+  "Ingredients": [
+   [
+    "50ml homemade lime syrup (see recipe, below) or lime cordial ",
+    "ice",
+    "50ml London dry gin",
+    "slice of lime and an edible flower, to garnish (optional)"
+   ],
+   [
+    "2 limes , grated zest and juice",
+    "200g caster sugar"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the homemade lime syrup"
+  ],
+  "Method": [
+   "Put a martini or coupe glass in the fridge to chill.",
+   "Pour 50ml of the lime syrup (see recipe, below) or cordial into a jug or tall glass and add a few ice cubes and the gin. Stir until the outside of the container feels very cold.",
+   "Strain the mixture into your chilled glass and garnish with a slice of lime and an edible flower.",
+   "For the homemade lime syrup, put the lime zest into a saucepan. Squeeze the juice from both limes into a measuring jug – stop when you get to about 60ml, then top it up with water so you have 100ml of liquid in total. Pour this into your pan with the caster sugar. Heat very gently, stirring occasionally just until the sugar has dissolved, but don’t let it boil. Strain the mixture into a heatproof jug and leave to cool. Makes 280-300ml. Lasts up to two weeks."
+  ]
+ },
+ {
+  "Id": 7,
+  "Name": "Zombie cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/zombie-a2ad1e2.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.5,
+  "Ratings": 4,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Blend white and dark rum with lime juice, pineapple juice and a splash of grenadine to make this ghoulish Halloween cocktail. Garnish with cherries and mint",
+  "Ingredients": [
+   [
+    "25ml dark rum (or a mixture of dark rum and golden rum) ",
+    "25ml white rum (or a mixture of white rum and overproof rum)",
+    "50ml lime juice",
+    "150ml pineapple juice",
+    "ice",
+    "1 tsp grenadine"
+   ],
+   [
+    "wedge of orange",
+    "maraschino cherries",
+    "mint sprig"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the garnish"
+  ],
+  "Method": [
+   "Pour the rums and fruit juices into a cocktail shaker filled with ice and shake hard until the outside of the shaker feels really cold.",
+   "Strain the mixture into a tall glass or hurricane glass filled with ice, then slowly pour in the grenadine to colour the drink.",
+   "Skewer the orange wedge and cherries on a cocktail stick. Garnish the drink with mint sprigs and the skewered fruit."
+  ]
+ },
+ {
+  "Id": 8,
+  "Name": "Grasshopper cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/cocktails_halloween-730195c.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.699999809265137,
+  "Ratings": 3,
+  "Times": [
+   "Prep:5 mins",
+   "No cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Looking for a spooky cocktail to serve at a Halloween party? With its bright green colour, this minty grasshopper cocktail will certainly look the part...",
+  "Ingredients": [
+   [
+    "ice",
+    "25ml crème de menthe",
+    "25ml white crème de cacao",
+    "25ml single cream"
+   ],
+   [
+    "mint sprig",
+    "25g melted chocolate (optional)"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "To garnish"
+  ],
+  "Method": [
+   "Start by making the garnish. Take a sprig of mint, strip off the leaves at the base and dip the stalk in the melted chocolate, holding the upper leaves gently. Leave to set on a plate or tray. ",
+   "Fill a cocktail shaker with ice then pour in the liqueurs and cream. Shake hard until the outside of the cocktail shaker is cold, then strain in to a cocktail glass or small coupe. Garnish with the chocolate-dipped sprig of mint."
+  ]
+ },
+ {
+  "Id": 9,
+  "Name": "Cosmopolitan cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/cosmopolitan-7a6874f.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.199999809265137,
+  "Ratings": 9,
+  "Times": [
+   "Prep:5 mins",
+   "No cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Lipsmackingly sweet and sour, the Cosmopolitan cocktail of vodka, cranberry, orange liqueur and citrus is a good-time in a glass. Perfect for a party",
+  "Ingredients": [
+   [
+    "45ml lemon vodka",
+    "15ml triple sec",
+    "30ml cranberry juice",
+    "10ml lime juice",
+    "ice"
+   ],
+   [
+    "orange zest, or a lime wedge on the rim of the glass."
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the garnish"
+  ],
+  "Method": [
+   "Shake ingredients in a cocktail shaker with ice and strain into a cocktail glass.",
+   "To make the garnish: hold a 3cm round piece of orange zest about 10cm above your cosmo and very carefully wave it over a lit match or lighter flame. Bend the outer edge of the zest in towards the flame so that the orange oils are released, then drop the zest into your drink."
+  ]
+ },
+ {
+  "Id": 10,
+  "Name": "Pink lady cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/pink_lady-18f92be.jpg?quality=90\u0026resize=440,400",
+  "Stars": 3.0999999046325684,
+  "Ratings": 8,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 2",
+  "Description": "Serve this fun 'pink lady' gin cocktail to someone special, it's perfect for Valentine's Day. Make your own grenadine-style syrup for the wow factor",
+  "Ingredients": [
+   [
+    "100ml London Dry gin",
+    "4 tsp grenadine (see tip, below)",
+    "ice",
+    "1 large egg white",
+    "2 strips of pared lemon zest and 2 maraschino cherries, to garnish (optional)"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put two coupe or cocktail glasses in the fridge to chill. Pour the gin and grenadine into a cocktail shaker, then fill with ice. Shake until the outside of the shaker feels ice-cold. Strain the mixture into a jug, discarding the ice.",
+   "Tip the egg white into the shaker and pour in the gin mixture. Shake well until the egg white is frothy – you can also do this in a food processor or using a hand blender, if you like. Pour the cocktail into the prepared glasses. Skewer the cherries onto cocktail sticks, if using, then use to garnish the glasses along with the pared lemon zest, if you like."
+  ]
+ },
+ {
+  "Id": 11,
+  "Name": "Mezcalita verde cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/mezcalita-verde-587bf20.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4,
+  "Ratings": 1,
+  "Times": [
+   "Prep:15 mins",
+   "plus chilling"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "1 cocktail (with 750ml juice leftover)",
+  "Description": "Get a taste of Mexico with this mezcalita verde cocktail. Make a jugo verde with pineapple, jalapeño, lime, cucumber, agave syrup and parsley, then add mezcal – salud!",
+  "Ingredients": [
+   [
+    "1 pineapple , skin removed and chopped ",
+    "1 bunch of parsley",
+    "3 limes , juiced",
+    "1 cucumber , chopped, slices reserved for garnish",
+    "¼ - ½  green jalapeño",
+    "agave syrup , to taste",
+    "50ml Mezcal"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Make the jugo verde by whizzing the pineapple, parsley, lime juice, cucumber and 200-250ml water in a blender. Add the jalapeño (the amount will depend on how spicy you’d like it) and blend. Adjust the sweetness by adding some agave syrup. Strain into a jug and chill – this makes about 800ml, use for another round of cocktails, or freeze the leftovers.",
+   "Mix the mezcal with a dash of agave syrup, 50ml of the jugo verde and some ice cubes in a cocktail shaker. Shake and strain into glasses with a slice of cucumber for garnish. "
+  ]
+ },
+ {
+  "Id": 12,
+  "Name": "Vampiro cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/vampiro-0d534bf.jpg?quality=90\u0026resize=440,400",
+  "Stars": 3.5,
+  "Ratings": 2,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Blend tequila and mescal with passata, lime and lemon juice, grenadine, Worcestershire sauce and Tabasco to make this vibrant red, Halloween-inspired cocktail",
+  "Ingredients": [
+   [
+    "40ml Blanco tequila",
+    "10ml mescal",
+    "20ml passata",
+    "10ml lime juice",
+    "5ml lemon juice",
+    "5ml grenadine",
+    "10ml Worcestershire sauce",
+    "3 dashes pepper sauce (Tabasco is fine)"
+   ],
+   [
+    "smoked sea salt , finely ground"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the garnish"
+  ],
+  "Method": [
+   "Chill a small wine glass or coupette glass, then brush a little water on the rim and dip into some fine smoked salt.",
+   "Put all the cocktail ingredients in the base of a cocktail shaker or a glass full of ice. Stir until the outside of the container feels cold, then strain into the prepared glass."
+  ]
+ },
+ {
+  "Id": 13,
+  "Name": "French 75 cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/440x400-french-75-554dc19.jpg?quality=90\u0026resize=440,400",
+  "Stars": 3.5,
+  "Ratings": 6,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Love gin and champagne? Combine the two in this classic cocktail with lemon, which is sure to be a hit at any celebration. Garnish with a strip of lemon zest",
+  "Ingredients": [
+   [
+    "1 tbsp lemon juice",
+    "1 tsp sugar syrup",
+    "50ml gin",
+    "champagne",
+    "ice",
+    "lemon zest"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Pour the lemon juice, sugar syrup and gin into a cocktail shaker then fill up with ice.",
+   "Shake well then strain into a champagne flute. Top with a little champagne, leave to settle (as it will bubble up) then fill up with more champagne. Swirl gently with a cocktail stirrer then garnish with a strip of lemon zest if you like. "
+  ]
+ },
+ {
+  "Id": 14,
+  "Name": "Dark \u0026 stormy cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/dark-stormy-ea1824e.jpg?quality=90\u0026resize=440,400",
+  "Stars": 3.299999952316284,
+  "Ratings": 7,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Combine dark rum, ginger ale and citrus to make a classic dark \u0026 stormy. Once you've mastered the cocktail favourite, try our three twists...",
+  "Ingredients": [
+   [
+    "50ml dark rum",
+    "25ml  fresh lime juice ,  plus a wedge to serve",
+    "2 dashes of Angostura bitters",
+    "5ml sugar syrup (optional)",
+    "100ml chilled ginger beer (a good fiery variety)"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put all the ingredients in a Collins or Highball glass over lots of ice, stir gently and garnish with a wedge of lime.  Orange muleBring a sunburst of citrus to the brooding dark \u0026 stormy by making it with two dashes of orange bitters instead. Angostura orange bitters will give the drink more spicy, marmalade notes, while Bitter Truth orange bitters taste much more of freshly-peeled orange zest. Then make the drink as normal and garnish with a lime wedge. Minty muleTake inspiration from the mojito and mix up a dark \u0026 stormy twist with 50ml dark rum, 25ml lime juice, bitters and ginger beer served over crushed ice, garnished with a wedge of lime and a fragrant sprig of mint (for best results, give the mint a clap between your palms before tucking it into the drink as this will help to release the aromatic oils). Then add two straws and enjoy. Mexican muleTequila really loves ginger and lime and all three come together beautifully in this Mexican twist on the mule. Just make the drink as normal but instead of rum, use a nice lightly-aged reposado tequila like Ocho or Olmeca Altos – it will give the drink a whole new layer of interest."
+  ]
+ },
+ {
+  "Id": 15,
+  "Name": "Nosferatini cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/nosfratini-e3bb482.jpg?quality=90\u0026resize=440,400",
+  "Stars": 3,
+  "Ratings": 1,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "For a ghoulish twist on a classic martini, combine gin, dry vermouth and red food colouring to impress your guests with this showstopper Halloween cocktail",
+  "Ingredients": [
+   [
+    "50ml gin",
+    "15ml dry vermouth",
+    "2 drops homemade fake blood (dissolve 7g of caster sugar into 44g of red liquid food colouring)"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Add the gin and vermouth to a cocktail tin filled with ice and stir to dilute. Double strain into a chilled small coupette glass and garnish with 2 drops of the fake blood."
+  ]
+ },
+ {
+  "Id": 16,
+  "Name": "Sweet manhattan cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/manhattan-cocktail-4d775c9.jpg?quality=90\u0026resize=440,400",
+  "Stars": 3.5999999046325684,
+  "Ratings": 3,
+  "Times": [
+   "Prep:5 mins",
+   "No cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "If you're a whiskey lover, you'll love this sweet manhattan, made with whiskey, vermouth and bitters. Serve with a maraschino cherry and a twist of lemon",
+  "Ingredients": [
+   [
+    "50ml bourbon or rye whiskey",
+    "25ml rosso vermouth",
+    "5ml syrup from a jar of maraschino cherries (we used Luxardo)",
+    "2 dashes Angostura bitters",
+    "ice"
+   ],
+   [
+    "maraschino cherry",
+    "a twist of pared lemon"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the garnish"
+  ],
+  "Method": [
+   "Stir the ingredients with ice in a mixing glass, then strain into a cocktail glass. Garnish and serve."
+  ]
+ },
+ {
+  "Id": 17,
+  "Name": "Sloe gin cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/sloe-gin-cocktail-b13c16a.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.300000190734863,
+  "Ratings": 3,
+  "Times": [
+   "Prep:10 mins",
+   "Cook:5 mins",
+   "plus cooling"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "This autumnal hedgerow cocktail has a blend of botanical notes from the gin, infused with a juniper syrup, which makes for a sweet-sharp tipple",
+  "Ingredients": [
+   [
+    "50ml sloe gin",
+    "25ml lemon juice",
+    "25ml gin",
+    "ice (crushed and cubes)"
+   ],
+   [
+    "100g white caster sugar",
+    "1 tbsp juniper berries"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the juniper syrup"
+  ],
+  "Method": [
+   "Start by making the juniper syrup. Put the sugar in a small saucepan, then add 100ml water and the juniper berries. Bring to the boil, then take off the heat and gently squash the berries in the liquid using a potato masher. Leave to steep until completely cold, then strain into a sterilised bottle or jar. Will keep in the fridge for up to 2 weeks.",
+   "Put the sloe gin, lemon juice, gin and 2 tsp of the syrup in a cocktail shaker with a few ice cubes. Shake well and strain into a tumbler filled with crushed ice. Serve immediately."
+  ]
+ },
+ {
+  "Id": 18,
+  "Name": "Elderflower \u0026 champagne cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/440x400-summer-all-year-360d33e.jpg?quality=90\u0026resize=440,400",
+  "Stars": 3,
+  "Ratings": 2,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Mix elderflower cordial, gin, lychee juice and lemon bitters with chilled champagne to make this superb cocktail that tastes like summer all year round",
+  "Ingredients": [
+   [
+    "1 tsp elderflower cordial",
+    "25ml gin",
+    "25ml lychee juice",
+    "a few dashes of lemon bitters",
+    "chilled champagne"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Pour the elderflower cordial into a champagne flute.",
+   "Add the gin, lychee juice and a few dashes of lemon bitters, if you have them.",
+   "Top with chilled champagne."
+  ]
+ },
+ {
+  "Id": 19,
+  "Name": "Blood beetroot cocktails",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/blood-beetroot-cocktails-a427381.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 1,
+  "Times": [
+   "Prep:15 mins",
+   "plus chilling, no cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 6",
+  "Description": "This blood-red lemonade and Prosecco combo is sure to be your new favourite spooky tipple",
+  "Ingredients": [
+   [
+    "200g raw beetroot , grated",
+    "juice 8 lemons",
+    "200g golden caster sugar"
+   ],
+   [
+    "300ml Aperol",
+    "ice",
+    "750ml prosecco , chilled"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the cocktail"
+  ],
+  "Method": [
+   "First, make the beetroot lemonade. In a bowl, stir together the beetroot, lemon juice and sugar. Steep in the fridge for at least 1 hr, stirring occasionally to dissolve the sugar. Pour the mixture through a sieve into a large jug to get rid of the pulp.",
+   "To make the cocktail, pour 25ml of the beetroot lemonade into each glass, followed by 50ml of Aperol and a few ice cubes. Top with Prosecco and serve."
+  ]
+ },
+ {
+  "Id": 20,
+  "Name": "Spiced apple strudel \u0026 brandy cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/apfelstrudel-sidecar-bca998c.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 4,
+  "Times": [
+   "Prep:20 mins",
+   "Cook:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 4",
+  "Description": "The classic Sixties sidecar cocktail is given a Viennese twist with flavours of apple strudel - a tasty tipple for the Eurovision Song Contest",
+  "Ingredients": [
+   [
+    "2 tbsp golden caster sugar",
+    "200ml pressed apple juice",
+    "1 cinnamon stick",
+    "100ml cognac",
+    "50ml Disaronno",
+    "50ml madeira wine",
+    "juice 1 lemon",
+    "a large handful of ice"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Dip the rim of 4 Martini glasses in a saucer of water, then into a saucer or small dish of golden caster sugar. Pop the glasses into the fridge until ready to serve.",
+   "Warm the apple juice in a small saucepan with the cinnamon stick. Bring to the boil, then turn off the heat and leave to go cold. Once cold, discard the cinnamon stick and pour into a jug.",
+   "Put the Cognac, Disaronno, Madeira wine and lemon juice into a cocktail shaker with a large handful of ice. Shake together until the mixture is chilled. Strain into your glasses, top up with the spiced apple juice and serve immediately."
+  ]
+ },
+ {
+  "Id": 21,
+  "Name": "Cava cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/cava-cocktail-974a4ac.jpg?quality=90\u0026resize=440,400",
+  "Stars": 2,
+  "Ratings": 1,
+  "Times": [
+   "Prep:5 mins",
+   "Cook:2 hrs"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 2",
+  "Description": "This cava cocktail is a ray of sunshine in a glass and is bound to perk up any celebration. It's easy to make but the flavours are complex enough to impress",
+  "Ingredients": [
+   [
+    "½ orange , juiced",
+    "½ lemon , juiced",
+    "50ml vodka",
+    "1 tsp cinnamon syrup (see tip)",
+    "½ tsp orange blossom water",
+    "ice",
+    "250ml cava , to top up"
+   ],
+   [
+    "1 small  orange , finely sliced ",
+    "ice"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "To garnish"
+  ],
+  "Method": [
+   "Start by making the dried orange slices to garnish. Spread out the orange slices on a lined baking tray. Heat oven to 110C/ 90C fan/gas ¼ and cook for 2 hrs. Can be done a day ahead and stored in a container.",
+   "Pour the fruit juices, vodka, cinnamon syrup and orange blossom water into a cocktail shaker and add a couple of handfuls of ice. Shake well, then strain into two large wine glasses with more ice. Top up with cava and garnish with a slice of dried orange."
+  ]
+ },
+ {
+  "Id": 22,
+  "Name": "Kneecapper cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/06/the-kneecapper-571c1ad.jpg?quality=90\u0026resize=556,505",
+  "Stars": 0,
+  "Ratings": 0,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "This cocktail is based on a classic Bees Knees cocktail. Swap the gin for poitín – an Irish spirit – the sweet honey and zingy citrus accentuate the barley flavours in poitín",
+  "Ingredients": [
+   [
+    "50ml poitín",
+    "25ml lemon juice",
+    "20ml honey water,  see tip below"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Shake all the ingredients together and double strain into a sours or cocktail glass."
+  ]
+ },
+ {
+  "Id": 23,
+  "Name": "Bicyclette cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/bicyclette-e19609d.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4,
+  "Ratings": 2,
+  "Times": [
+   "Prep:5 mins",
+   "No cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 2",
+  "Description": "This white wine cocktail is made with the classic bitter, Campari - add wedges of lemon for a refreshing fruity hit",
+  "Ingredients": [
+   [
+    "100ml Campari",
+    "ice cubes",
+    "200ml dry white wine",
+    "slices from 1/2 lemon"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Divide the Campari between 2 wine glasses, add 2-3 ice cubes to each glass, then top with the dry white wine.",
+   "Add the lemon wedges, stir to gently combine the flavours and serve."
+  ]
+ },
+ {
+  "Id": 24,
+  "Name": "Chocolate orange cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/jackos-chocolate-orange-5bdf756.jpg?quality=90\u0026resize=402,365",
+  "Stars": 5,
+  "Ratings": 2,
+  "Times": [
+   "Prep:15 mins",
+   "Cook:10 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Makes 4 x 75ml glasses",
+  "Description": "Impress your Christmas party guests with this festive cocktail - with vodka, orange syrup, crème de cacao and grated chocolate",
+  "Ingredients": [
+   [
+    "100g golden caster sugar",
+    "zest of 1 orange or clementine",
+    "grated dark chocolate , to decorate",
+    "100ml vodka",
+    "100ml crème de cacao",
+    "60ml orange syrup",
+    "40ml orange juice",
+    "ice"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "First make an orange syrup. Combine 100ml water with the golden caster sugar and the orange or clementine zest in a pan and bring to the boil. Cool and strain the syrup.",
+   "Chill 4 coupé glasses, then dampen the rims with a little water and dip in the grated dark chocolate. In a cocktail shaker, shake the vodka, crème de cacao, orange syrup and orange juice with ice (you may need to make in 2 batches). Pour into the glasses."
+  ]
+ },
+ {
+  "Id": 25,
+  "Name": "Soul reviver cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/08/Soul-reviver-cocktail-db064e8.jpg?quality=90\u0026resize=556,505",
+  "Stars": 0,
+  "Ratings": 0,
+  "Times": [
+   "Cook:5 mins",
+   "plus chilling"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "This sophisticated sipping cocktail is made with fragrant plum sake, lemon juice and dry vermouth for a lip-smackingly good weekend tipple",
+  "Ingredients": [
+   [
+    "20ml plum sake",
+    "20ml dry vermouth",
+    "20ml triple sec",
+    "20ml lemon juice",
+    "2 dashes of absinthe",
+    "ice",
+    "1 star anise,  to garnish"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put a coupe or martini glass into the fridge to chill. Pour the sake, vermouth, triple sec and lemon juice into a cocktail shaker filled with ice. Splash in two dashes of absinthe, then shake vigorously for approximately 10 seconds.",
+   "Strain the cocktail through a fine mesh strainer into the chilled coupe or martini glass. Garnish with a star anise."
+  ]
+ },
+ {
+  "Id": 26,
+  "Name": "Prosecco \u0026 elderflower cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/winners-bouquet-ce4306c.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 1,
+  "Times": [
+   "Prep:25 mins",
+   "plus freezing, no cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 4",
+  "Description": "This floral Prosecco and vodka cocktail, with edible flower ice cubes, is the perfect end to a Eurovision Song Contest party",
+  "Ingredients": [
+   [
+    "8 edible flowers (such as violets or rose petals)",
+    "200ml cold jasmine tea",
+    "1 tsp orange blossom honey",
+    "25ml elderflower cordial",
+    "juice 1 grapefruit",
+    "75ml vodka",
+    "300ml prosecco",
+    "extra ice cubes"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Before the Contest, freeze the 8 edible flowers in 8 ice cubes, if you like.",
+   "Pour the jasmine tea into a cocktail shaker with the orange blossom honey, elderflower cordial, grapefruit juice and vodka. Add a handful of (normal) ice cubes and shake well.",
+   "Strain into 4 tall glasses. Divide the Prosecco between the glasses, then add extra ice and the flowery ice cubes (if using)."
+  ]
+ },
+ {
+  "Id": 27,
+  "Name": "Aperol \u0026 limoncello cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/aperol_limoncello_mn-2e6f7fd.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 2,
+  "Times": [
+   "Prep:5 mins",
+   "plus chilling, no cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 4 (easily doubled)",
+  "Description": "Mix vodka, limoncello, Aperol and orange juice for this punchy citrus party drink - make with Campari if you prefer",
+  "Ingredients": [
+   [
+    "100ml vodka",
+    "100ml limoncello",
+    "1 tbsp triple sec",
+    "200ml Aperol or Campari",
+    "300ml orange juice"
+   ],
+   [
+    "sliced oranges",
+    "lemons on skewers"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "To serve"
+  ],
+  "Method": [
+   "Mix together all the ingredients in a jug. Chill until ready to serve. Pour into 4 highball glasses with ice. Decorate with citrus skewers."
+  ]
+ },
+ {
+  "Id": 28,
+  "Name": "Mrs momoiro cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/05/Mrs-Momoiro-cocktail-813c193.jpg?quality=90\u0026resize=556,505",
+  "Stars": 0,
+  "Ratings": 0,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Dry and sweet, this picture-perfect strawberry cocktail is a dream summer drink made with vodka and a dash of absinthe",
+  "Ingredients": [
+   [
+    "ice",
+    "30ml Japanese vodka (we used Suntory Haku)",
+    "15ml strawberry liqueur",
+    "130ml dry rosé wine",
+    "2 dashes of absinthe",
+    "small handful of strawberries, hulled and sliced, to garnish"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Fill a wine glass with ice. Pour in the vodka, strawberry liqueur and rosé, shake over two dashes of absinthe and stir well.",
+   "Stir in the strawberry slices to garnish, then serve."
+  ]
+ },
+ {
+  "Id": 29,
+  "Name": "Bourbon cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/bourbon-cocktail-122cbab.jpg?quality=90\u0026resize=440,400",
+  "Stars": 3.5,
+  "Ratings": 2,
+  "Times": [
+   "Prep:5 mins",
+   "plus chilling, no cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Makes 2 (easily doubled)",
+  "Description": "Serve this zingy cocktail, with crème de cacao and grenadine, with a twist of pared orange zest for a stylish party drink",
+  "Ingredients": [
+   [
+    "4 tbsp bourbon",
+    "4 tbsp crème de cacao",
+    "4 tbsp lemon juice",
+    "2 dashes of grenadine",
+    "4 tsp golden caster sugar"
+   ],
+   [
+    "pared orange zest"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "To serve"
+  ],
+  "Method": [
+   "Put all the ingredients in a cocktail shaker with some ice. Shake together, then pour into Martini glasses, add the zest, and serve. Alternatively, serve over ice in highball glasses."
+  ]
+ },
+ {
+  "Id": 30,
+  "Name": "Hibiscus \u0026 prosecco cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/pheonix-fizz-e6abcb6.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4,
+  "Ratings": 1,
+  "Times": [
+   "Prep:15 mins",
+   "No cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 4",
+  "Description": "Hibiscus flowers in syrup add a final flourish to this pink prosecco and vodka cocktail - ideal to sip at a Eurovision party",
+  "Ingredients": [
+   [
+    "100ml vodka",
+    "25ml ginger cordial",
+    "juice 1 orange",
+    "juice 1  lemon",
+    "a handful of ice",
+    "hibiscus flowers , from a jar (keep the syrup to add at the end)",
+    "300ml prosecco"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Pour the vodka into a cocktail shaker with the ginger cordial, orange and lemon juice. Add a handful of ice and shake until the cocktail shaker is frosty.",
+   "Line up 4 champagne flutes, put a hibiscus flower in each, then strain the cocktail into the glasses. Divide the prosecco between the glasses, then drop 1 tsp syrup from the hibiscus flower jar into each and allow it to sink before serving."
+  ]
+ },
+ {
+  "Id": 31,
+  "Name": "Apple, elderflower \u0026 gin cocktails",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/cocktail-e2a8f15.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.400000095367432,
+  "Ratings": 5,
+  "Times": [
+   "Prep:5 mins",
+   "No cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 8",
+  "Description": "Cool off with this gin-based cocktail with both fruity and floral notes",
+  "Ingredients": [
+   [
+    "250ml gin",
+    "200ml elderflower cordial",
+    "1l cloudy apple juice",
+    "apple slices and ice, to serve"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "In a jam jar, mix gin with cordial. When ready to serve, divide the mixture between 8 glasses, top up with apple juice, apple slices and ice."
+  ]
+ },
+ {
+  "Id": 32,
+  "Name": "Pear \u0026 vodka cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/puppet-on-a-string_0-48d1be1.jpg?quality=90\u0026resize=440,400",
+  "Stars": 3,
+  "Ratings": 2,
+  "Times": [
+   "Prep:30 mins",
+   "No cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 4",
+  "Description": "Celebrate the Eurovision Song Contest in style with this fruity pear and vodka cocktail",
+  "Ingredients": [
+   [
+    "1 ripe pear",
+    "juice 1 lemon",
+    "75ml vodka",
+    "25ml hazelnut liqueur (I used Frangelico)",
+    "handful of ice",
+    "500ml pressed pear juice"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put the pear through a spiralizer to create long spaghetti-like strands. If you don't have a spiralizer, slice the pear into thin ribbons with a vegetable peeler, then cut the ribbons into thinner strips.",
+   "Line up 4 tumblers and put 3-4 strands of pear in each one. Divide the lemon juice between the glasses to coat the pear strands and stop them discolouring while you make the cocktail.",
+   "Pour the vodka and hazelnut liqueur into a cocktail shaker. Add a handful of ice and shake until the outside of the cocktail shaker starts to frost, then strain into the glasses. Top with the pressed pear juice divided between the 4 glasses."
+  ]
+ },
+ {
+  "Id": 33,
+  "Name": "Coconut \u0026 vanilla milk bottle cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/white-christmas-cocktail-0d8d942.jpg?quality=90\u0026resize=440,400",
+  "Stars": 3,
+  "Ratings": 2,
+  "Times": [
+   "Prep:5 mins",
+   "No cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Makes 2",
+  "Description": "This creamy coconut cocktail, with vanilla vodka and warming nutmeg, is a perfect Christmas party tipple - serve in mini milk bottles with a chocolate wafer straw",
+  "Ingredients": [
+   [
+    "100ml vanilla vodka",
+    "160ml coconut cream",
+    "1 tbsp crème de cacao",
+    "½ tsp grated nutmeg",
+    "2 chocolate wafers , to serve"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put a few ice cubes in a cocktail shaker with the vanilla vodka, coconut cream, crème de cacao and grated nutmeg. Shake and strain into two mini milk bottles (see tip). Pop a rolled chocolate wafer in each."
+  ]
+ },
+ {
+  "Id": 34,
+  "Name": "Gibson cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2018/07/gibson-cocktail-ee04140.jpg?quality=90\u0026resize=556,505",
+  "Stars": 0,
+  "Ratings": 0,
+  "Times": [
+   "Prep:10 mins",
+   "Cook:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Add an umami undertone to a classic drink, with a gibson cocktail. Similar to a martini, it uses a pickled cocktail onion in place of an olive",
+  "Ingredients": [
+   [
+    "3 small silverskin pickled onions",
+    "65ml gin",
+    "5ml dry vermouth",
+    "ice"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Start by making the garnish by charring the onions in a hot non-stick frying pan to obtain colour (about 4-5mins) then set aside to cool.",
+   "Pour all of the ingredients into a mixing glass or jug, add cubed ice and stir for around 30 seconds to achieve the desired dilution. Strain into a chilled cocktail glass, or for extra flair pour it into a small glass bottle and sit it in an ice-filled tumbler to act as a mini ice bucket. Serve with a small liqueur or port glass on the side to pour it into.",
+   "Thread the cooled onions onto a cocktail stick and use to garnish the drink."
+  ]
+ },
+ {
+  "Id": 35,
+  "Name": "Toffee apple sour cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/toffee-apple-sour-f50dd26.jpg?quality=90\u0026resize=440,400",
+  "Stars": 0,
+  "Ratings": 0,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Tantalise your guests' tastebuds with this delicious toffee apple sour. It's a perfect cocktail for a grown-up Halloween party or a Bonfire Night treat",
+  "Ingredients": [
+   [
+    "40ml Somerset brandy 5yr (Calvados will do – nothing with too much age as it will start to lose some of its apple-y character)",
+    "20ml lemon juice",
+    "20ml egg white",
+    "10ml toffee syrup (Biona Caramel Agave Syrup is great, or see the recipe below)",
+    "Breton cider to top up (about 40-50ml)"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put all the ingredients, except the cider, into a cocktail shaker and dry shake (no ice).",
+   "Add ice to the shaker and shake again. Strain into a small wine glass and top with the Breton cider."
+  ]
+ },
+ {
+  "Id": 36,
+  "Name": "Les fleurs du mal cocktail (the flowers of evil)",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/fleur-de-mal-d3922d4.jpg?quality=90\u0026resize=440,400",
+  "Stars": 0,
+  "Ratings": 0,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Blend rose vodka and absinthe with lemon juice and egg white to make this Halloween-inspired cocktail. It's ideal for a grown-up ghoulish party",
+  "Ingredients": [
+   [
+    "50ml rose petal vodka (make your own if preferred – see tip below)",
+    "25ml freshly squeezed lemon juice",
+    "25ml egg white",
+    "5ml absinthe",
+    "strip of  orange zest"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put all the ingredients except the orange zest in a cocktail shaker and dry shake (no ice). Add ice to the shaker and shake again. Strain into an absinthe glass or small wineglass and squeeze the strip of orange zest on top of the drink for the aroma, then discard it."
+  ]
+ },
+ {
+  "Id": 37,
+  "Name": "Black russian cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2017/09/black-russian-cocktail-e89ea42.jpg?quality=90\u0026resize=556,505",
+  "Stars": 0,
+  "Ratings": 0,
+  "Times": [
+   "Prep:5 mins",
+   "No cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "A classic black russian cocktail is made with vodka, coffee liqueur and cola. Garnish with a maraschino cherry and serve as a decadent after-dinner drink",
+  "Ingredients": [
+   [
+    "50ml vodka",
+    "25ml coffee liqueur",
+    "ice",
+    "1 maraschino cherry",
+    "cola  to top up, chilled (optional) "
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put the vodka and the coffee liqueur into a tumbler filled with ice and stir gently for 30 secs - 1min. Add the cherry and serve. Top with a splash of chilled cola if you prefer a longer drink."
+  ]
+ },
+ {
+  "Id": 38,
+  "Name": "Dark \u0026 stormy coffee cocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/stormy-and-caffeinated-bb69ee8.jpg?quality=90\u0026resize=440,400",
+  "Stars": 0,
+  "Ratings": 0,
+  "Times": [
+   "Prep:5 mins",
+   "no cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Are you a die-hard fan of a dark and stormy? Twist up a classic cocktail with a dash of freshly brewed espresso to pair with traditional ginger beer",
+  "Ingredients": [
+   [
+    "25ml dark rum",
+    "25ml tequila",
+    "ice",
+    "ginger beer",
+    "2 tbsp freshly brewed espresso"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Fill a highball glass with ice and pour in the rum and tequila. Stir then top with ginger beer. Slowly pour in the espresso."
+  ]
+ },
+ {
+  "Id": 39,
+  "Name": "Palomezcal",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/03/palomezcal-bf0600b.jpg?quality=90\u0026resize=556,505",
+  "Stars": 5,
+  "Ratings": 2,
+  "Times": [
+   "Cook:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Try a twist on one of Mexico's favourite cocktails using mezcal instead of tequila for a refreshing, summery sipper",
+  "Ingredients": [
+   [
+    "lime juice (optional)",
+    "50ml espadin mezcal",
+    "30ml fresh grapefruit juice",
+    "10ml agave syrup",
+    "ice",
+    "soda water"
+   ],
+   [
+    "slice of grapefruit"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the garnish"
+  ],
+  "Method": [
+   "If you're choosing to salt the rim of your glass like a classic margarita, dip the rim in a saucer of lime juice, followed by a saucer of sea salt.",
+   "Put all the ingredients except the soda water into a cocktail shaker, fill with ice and give it a good shake.",
+   "Strain into a tall collins glass over fresh ice and top with soda water and a slice of grapefruit to garnish."
+  ]
+ },
+ {
+  "Id": 40,
+  "Name": "Mulled gin",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/mulled_gin-8bf190e.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 5,
+  "Times": [
+   "Prep:5 mins",
+   "Cook:8 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 4",
+  "Description": "Infuse apple juice with festive spices to make this Christmassy gin cocktail",
+  "Ingredients": [
+   [
+    "100ml gin",
+    "400ml apple juice",
+    "½ lemon, sliced",
+    "1 bay leaf",
+    "4 cloves",
+    "2 cardamom pods, lightly crushed",
+    "1 small cinnamon stick",
+    "3 juniper berries, lightly crushed",
+    "½ tsp coriander seeds",
+    "1 tsp runny honey"
+   ],
+   [
+    "4 bay leaves",
+    "2 lemon slices, halved"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the garnish"
+  ],
+  "Method": [
+   "Divide the gin between four small heatproof glasses or teacups.",
+   "Tip the apple juice into a saucepan with the rest of the ingredients. Heat gently until simmering, then strain into a jug. Pour the mulled apple juice into the glasses with the gin and stir gently to combine. Garnish each glass with a bay leaf and half a lemon slice and serve warm."
+  ]
+ },
+ {
+  "Id": 41,
+  "Name": "Dizzy mezcal",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/03/dizzy-mezcal-d2ab56c.jpg?quality=90\u0026resize=556,505",
+  "Stars": 5,
+  "Ratings": 2,
+  "Times": [
+   "Cook:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Pairing fresh cucumber and lemon with a smoky mezcal and herbal anise creates the perfect balance for this deliciously complex cocktail",
+  "Ingredients": [
+   [
+    "2.5cm piece  cucumber, plus cucumber peel, to garnish",
+    "15ml lemon juice",
+    "15ml agave syrup",
+    "10ml absinthe",
+    "40ml La Medida Espadin mezcal",
+    "ice"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put the cucumber, lemon juice, agave and absinthe into the bottom of a cocktail shaker and muddle together. Add the mezcal, fill the shaker with ice and give it a good shake.",
+   "Strain the drink through a fine strainer into a martini glass or coupette. Garnish with a twist of cucumber peel."
+  ]
+ },
+ {
+  "Id": 42,
+  "Name": "Negroni mocktail",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/negroni-mocktail-a39f80c.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.800000190734863,
+  "Ratings": 4,
+  "Times": [
+   "Prep:15 mins",
+   "Cook:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Make an alcohol-free version of the classic negroni cocktail, with grape juice and a syrup made from grapefruit, coriander and cardamon pods",
+  "Ingredients": [
+   [
+    "½  grapefruit (approx 125g) ",
+    "1 slice orange",
+    "125g caster sugar",
+    "3 cardamom pods , lightly crushed",
+    "pinch coriander seeds",
+    "few drops red food colouring"
+   ],
+   [
+    "ice",
+    "25ml white grape juice",
+    "1 slice orange (optional)"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the cocktail"
+  ],
+  "Method": [
+   "Chop the grapefruit into small chunks and put them into a saucepan along with the orange slice, sugar, 125ml water, the cardamom pods and coriander seeds. Heat the mixture until simmering and cook for around 5 mins, crushing the fruit pieces with the back of a wooden spoon as it starts to soften to release the juices. Once the fruit has softened and the white pith has faded, take it off the heat and leave to cool. If you like you can add a splash of red food colouring to the syrup at this point.",
+   "Once the syrup mixture has cooled, strain it and discard the spices and fruit pieces. Fill a tumbler with ice and pour in 25ml of the syrup, the grape juice and 25ml cold water. Stir gently until the outside of the tumbler feels cold, then garnish with a slice of orange, if you like."
+  ]
+ },
+ {
+  "Id": 43,
+  "Name": "Ramune iced coffee",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/05/Ramune-iced-coffee-cocktail-8623f4a.jpg?quality=90\u0026resize=556,505",
+  "Stars": 5,
+  "Ratings": 1,
+  "Times": [
+   "Prep:5 mins",
+   "plus overnight cooling"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Get a kick of coffee and subtle hint of honey sweetness in this simple whisky cocktail made with punchy bitters",
+  "Ingredients": [
+   [
+    "100g  honey",
+    "30ml Japanese whisky (we used Suntory Toki)",
+    "3 dashes of coffee bitters",
+    "ice",
+    "lemon peel twist, to garnish"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put the kettle on to boil. Pour the honey into a heatproof bowl, stir in 100ml boiling water until combined and leave overnight until completely cooled and syrupy. Will keep in a sealed container in the fridge for up to a week.",
+   "Pour the whisky and 15ml of the honey syrup into a stirring glass, measuring jug or pint glass. Shake over three dashes of the bitters, then fill the glass with ice. Stir with a bar or other long spoon for 10-20 seconds (the longer you stir, the softer the taste of alcohol – stir longer for more dilution).",
+   "Strain the cocktail into a martini or coupe glass, then garnish with a lemon peel twist."
+  ]
+ },
+ {
+  "Id": 44,
+  "Name": "Once upon a thyme in Mexico",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/03/once-upon-a-thyme-1329813.jpg?quality=90\u0026resize=556,505",
+  "Stars": 5,
+  "Ratings": 1,
+  "Times": [
+   "Cook:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Fresh raspberries and aromatic thyme enhance the vibrant, fruity flavours of the mezcal in this summery cocktail",
+  "Ingredients": [
+   [
+    "30ml Del Maguey Vida mezcal",
+    "20ml blanco tequila",
+    "10ml agave syrup",
+    "15ml lime juice",
+    "5 fresh raspberries",
+    "1 sprig thyme, plus 1 to garnish"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put all the ingredients in a cocktail shaker and fill with ice. Shake hard to combine and ensure the raspberries break up. Fine strain into a martini glass or coupette, and garnish with a sprig of thyme, attaching with a mini peg if you have one."
+  ]
+ },
+ {
+  "Id": 45,
+  "Name": "Kiwiriqui",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/03/kiwiriqui-99208b7.jpg?quality=90\u0026resize=556,505",
+  "Stars": 5,
+  "Ratings": 1,
+  "Times": [
+   "Cook:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Green fruit works really well with mezcal and this cocktail shows just that, combining the smoky spirit with kiwi, apple and lime",
+  "Ingredients": [
+   [
+    "½ kiwi, plus a slice to garnish",
+    "20ml kiwi liqueur",
+    "10ml agave syrup",
+    "20ml lime juice",
+    "30ml QuiQuiRiqui Espadin mezcal",
+    "30ml apple juice",
+    "ice"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Add the kiwi half, kiwi liqueur, agave syrup and lime juice to the bottom of a cocktail shaker and muddle together. Add the rest of the ingredients and shake together.",
+   "Strain into a rocks glass filled with fresh ice and garnish with a slice of kiwi."
+  ]
+ },
+ {
+  "Id": 46,
+  "Name": "El padron",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/03/el-padron-8656fb5.jpg?quality=90\u0026resize=556,505",
+  "Stars": 5,
+  "Ratings": 1,
+  "Times": [
+   "Cook:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "This spicy cocktail packs a little heat that beautifully balances the mezcal's sweet, smoky flavour. It's a great summer sipper",
+  "Ingredients": [
+   [
+    "40ml La Medida Espadin mezcal",
+    "10ml Ancho Reyes verde liqueur",
+    "25ml padron pepper agave syrup  (see below)",
+    "25ml lime juice",
+    "rock salt, to taste",
+    "ice"
+   ],
+   [
+    "100ml agave syrup",
+    "6 padron peppers, stems removed and deseeded"
+   ],
+   [
+    "padron pepper and lime slice"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the padron pepper agave syrup",
+   "To garnish"
+  ],
+  "Method": [
+   "First, make the padron pepper agave syrup. Tip the agave syrup, 50ml water and the peppers into a blender and blitz until well-combined. Strain.",
+   "Put the mezcal, liqueur, 25ml of the padron pepper agave syrup, the lime juice and a pinch of rock salt into a cocktail shaker and top up with ice. Shake until combined. Strain the cocktail into a rocks or tumbler glass filled with ice, then garnish with a padron pepper and slice of lime."
+  ]
+ },
+ {
+  "Id": 47,
+  "Name": "Pink gin iced tea",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/gin_iced_tea-7addd18.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4,
+  "Ratings": 5,
+  "Times": [
+   "Prep:15 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 6",
+  "Description": "Blend pink gin with iced tea and you have this unique cocktail, made with spiced rum, elderflower and pink grapefruit. Serve in a jug for a sharing cocktail",
+  "Ingredients": [
+   [
+    "1 chamomile tea bag",
+    "100ml pink gin",
+    "100ml spiced rum",
+    "100ml elderflower cordial",
+    "100ml pink grapefruit juice",
+    "ice",
+    "thyme sprigs, to garnish"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Brew the chamomile tea bag with 500ml boiling water, steep for 2-3 mins or following pack instructions. Remove the bag and leave to cool for 5 mins. ",
+   "Pour into a large jug with the pink gin, rum, elderflower cordial and juice. Add ice and stir, then add the thyme sprigs and stir again before serving. "
+  ]
+ },
+ {
+  "Id": 48,
+  "Name": "Vodka martini",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/vodka-martini-recipe-d7e9995.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.800000190734863,
+  "Ratings": 5,
+  "Times": [
+   "Prep:5 mins",
+   "No cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Makes 1",
+  "Description": "Make an easy vodka martini with our simple recipe for an elegant party tipple. Serve your cool cocktail with an olive or a twist of lemon peel",
+  "Ingredients": [
+   [
+    "60ml vodka",
+    "1 tbsp dry vermouth",
+    "olive or lemon peel, to garnish"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Stir the vodka, dry vermouth and a little ice together or put them in a cocktail shaker to combine.",
+   "Strain into a chilled martini glass. Serve with an olive on a cocktail stick or a twist of lemon peel."
+  ]
+ },
+ {
+  "Id": 49,
+  "Name": "Tom Collins",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/tom-collins-04badba.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.5,
+  "Ratings": 11,
+  "Times": [
+   "Prep:10 mins",
+   "Cook:2 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Master the art of the classic Tom Collins cocktail, plus three twists. Gin, lemon, sugar syrup and soda water are the ingredients for your cocktail cupboard",
+  "Ingredients": [
+   [
+    "50ml gin",
+    "25ml lemon juice",
+    "25ml sugar syrup",
+    "125ml chilled soda water"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Build the drink over plenty of ice in a Collins glass, stir gently and garnish with a slice of lemon. Raspberry CollinsRaspberries give this twist on the classic Collins a pretty splash of colour. Start by gently muddling a handful of raspberries in the bottom of an empty Collins glass, then add the ice, all the other ingredients and mix well with a long handled spoon. Garnish with an orange slice. Brandy CollinsThis is a really refreshing way to enjoy cognac. For best results, use a young-ish VS or VSOP cognac that’s nice and fruity. Just make the drink as normal, substituting cognac for gin, then garnish with a slice of ginger or a ribbon of lemon peel. Elderflower CollinsElderflower and lemon is a winning combination. You can make it with elderflower cordial or liqueur for something a touch more boozy. Mix the drink as normal, but use the liqueur or cordial in place of the sugar syrup. Garnish with a lemon slice."
+  ]
+ },
+ {
+  "Id": 50,
+  "Name": "Frozen margarita",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/frozen-margarita-e3ddfe9.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.900000095367432,
+  "Ratings": 8,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Cool off this summer with our super-simple frozen margarita recipe. This refreshing tequila cocktail can be made in just five minutes in a blender",
+  "Ingredients": [
+   [
+    "50ml tequila",
+    "25ml triple sec (we used Cointreau)",
+    "25ml lime juice",
+    "15ml sugar syrup (see 'Goes well with' below)",
+    "large handful of ice",
+    "wedge of lime , to garnish"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put all the ingredients except the lime wedge in a blender and blitz until smooth. Tip into a cocktail, margarita or rocks glass, garnish and serve."
+  ]
+ },
+ {
+  "Id": 51,
+  "Name": "Mojito pitcher",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/mojito-10c6621.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 7,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 6",
+  "Description": "Make a jug of refreshing mojitos to share, so you can spend more time with your guests. Try our three twists on this classic cocktail, too",
+  "Ingredients": [
+   [
+    "6 limes, plus 1 lime sliced, to serve",
+    "4 tbsp granulated sugar",
+    "4-5 mint sprigs",
+    "ice",
+    "350ml white rum",
+    "600ml sparking water"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Chop each lime into six pieces and drop them into a two-litre jug. Add the sugar and squish the lime wedges with a muddler, or the end of a rolling pin. Keep crushing to get out all the juices.",
+   "Pick the leaves off a mint spring and lay them on one of your hands. Clap the other hand on top to bruise the leaves ever so gently, then drop them into the jug. Repeat with the rest of the mint spring.",
+   "Fill up the jug about three-quarters full with ice, then add the rum. Stir with a long-handled spoon to mix all the ingredients together gently and top up with the sparkling water. Stir once more, then serve poured into tall glasses with a few extra ice cubes and lime slices.Strawberry mojitoMuddle 9-10 strawberries, 2 chopped limes and 2 tbsp granulated sugar in a large jug. Bruise the leaves from 2 mint sprigs and add to the jug with a pinch of black pepper. Add lots of ice and stir in 350ml white rum and 600ml sparkling water.Blueberry mojito Put 100g blueberries, 3 chopped lemons and 2 tbsp granulated sugar in a jug and muddle. Bruise the leaves from 2 mint sprigs and add them to the jug with lots of ice. Pour over 350ml white rum and 600ml sparkling water and stir together.Mango \u0026 pineapple mojito Tip 50g pineapple pieces, 50g chopped mango, 3 chopped limes and 2 tbsp light brown sugar into a large jug and muddle together. Bruise and add the leaves from 2 mint sprigs, then top with ice. Stir in 150ml white rum, 200ml pineapple rum and 600ml sparkling water."
+  ]
+ },
+ {
+  "Id": 52,
+  "Name": "Easy sangria",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/sangria-new-crop-8fbb7a1.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.5,
+  "Ratings": 8,
+  "Times": [
+   "Prep:10 mins",
+   "plus at least 1 hr macerating"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 6",
+  "Description": "Embrace balmy summer days with a jug of sangria. With red wine, Spanish brandy, sparkling water, cinnamon and chopped fruit, it's a lovely sharing cocktail",
+  "Ingredients": [
+   [
+    "2 oranges , chopped",
+    "2 pears , chopped",
+    "2 lemons , 1 chopped, 1 juiced",
+    "200g red berries , chopped (we used strawberries and cherries)",
+    "3 tbsp caster sugar",
+    "1 tsp cinnamon",
+    "ice",
+    "750ml bottle light red wine",
+    "100ml Spanish brandy",
+    "300ml sparkling water"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put the chopped fruit in a bowl and sprinkle over the sugar and cinnamon, then stir to coat. Cover and leave to macerate in the fridge for at least 1 hr, or ideally overnight.",
+   "Fill a large jug with ice. Stir the macerated fruit mixture to ensure the sugar is dissolved, then tip into the jug with the wine and brandy. Stir, then top up with the sparkling water and serve."
+  ]
+ },
+ {
+  "Id": 53,
+  "Name": "Singapore sling",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/singapore-sling-37315fa.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.800000190734863,
+  "Ratings": 6,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Mix gin with cherry brandy, Benedictine, Angostura bitters, pineapple and lime juice to make this classic cocktail. Garnish with pineapple and a cherry",
+  "Ingredients": [
+   [
+    "25ml dry gin",
+    "25ml cherry brandy",
+    "25ml Benedictine",
+    "handful of ice, to serve",
+    "few drops Angostura bitters",
+    "50ml pineapple juice",
+    "25ml lime juice",
+    "sparkling water to top up"
+   ],
+   [
+    "1 thin slice of fresh pineapple (optional) ",
+    "cocktail cherry"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the garnish"
+  ],
+  "Method": [
+   "Pour the gin, cherry brandy and Benedictine into a mixing glass or a jug. Add the ice and Angostura bitters. Stir well until the outside of the glass feels cold.",
+   "Pour the mix into a tall glass, then add the pineapple juice and lime juice and stir gently. Top up with sparkling water and garnish."
+  ]
+ },
+ {
+  "Id": 54,
+  "Name": "Amaretto sour",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/amaretto-sour-f4-1e174ba.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.800000190734863,
+  "Ratings": 9,
+  "Times": [
+   "Prep:10 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 4",
+  "Description": "Combine amaretto, lemon, egg white and cherries with ice for a classic amaretto sour. A great cocktail to impress guests at a dinner party",
+  "Ingredients": [
+   [
+    "200ml amaretto",
+    "3-4 lemons, juiced (you will need 120ml) ",
+    "1 egg white",
+    "small jar or can of cherries in syrup",
+    "ice"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put the amaretto, lemon juice, egg white and 4 tsp of the cherry syrup into a blender (you can also do this in a large cocktail shaker, you will just need to shake it very hard without adding any ice). Whizz up the mixture a few times at a high speed until it is pale and starting to increase in volume. If your blender is suitable for use with ice, add a few handfuls and pulse just twice more to chill the mixture. Alternatively, just stir in the ice until the outside of the jug feels cold. Pour into glasses and garnish with cherries to serve."
+  ]
+ },
+ {
+  "Id": 55,
+  "Name": "Aperol spritz",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/aperol-spritz-0e58f7b.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.900000095367432,
+  "Ratings": 12,
+  "Times": [
+   "Prep:5 mins",
+   "No cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 2",
+  "Description": "Get a taste of summer with our take on this classic Italian cocktail of Aperol, prosecco and soda. Try our proportions or adjust the ratio to taste",
+  "Ingredients": [
+   [
+    "ice",
+    "100ml Aperol",
+    "150ml prosecco",
+    "soda, to top up"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put a couple of cubes of ice into 2 glasses and add a 50 ml measure of Aperol to each. Divide the prosecco between the glasses and then top up with soda, if you like."
+  ]
+ },
+ {
+  "Id": 56,
+  "Name": "Classic margarita",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/tequila_margarita-ffb16fa.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.5,
+  "Ratings": 8,
+  "Times": [
+   "Prep:10 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Tequila and triple sec combine in this fabulous short cocktail mixed with lime juice. Garnish the rim of the glass with salt for that extra punch",
+  "Ingredients": [
+   [
+    "ice",
+    "50ml tequila reposado",
+    "25ml lime juice",
+    "20ml triple sec (we used Cointreau)"
+   ],
+   [
+    "salt",
+    "2 lime wedges"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the garnish"
+  ],
+  "Method": [
+   "Sprinkle a few teaspoons of salt over the surface of a small plate or saucer. Rub one wedge of lime along the rim of a tumbler and then dip it into the salt so that the entire rim is covered. ",
+   "Fill a cocktail shaker with ice, then add the tequila, lime juice and triple sec. Shake until the outside of the shaker feels cold. ",
+   "Strain the mix into the prepared glass over fresh ice. Serve with a wedge of lime."
+  ]
+ },
+ {
+  "Id": 57,
+  "Name": "Coconut \u0026 pineapple cooler",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/coconut_cooler-da94438.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 4,
+  "Times": [
+   "Prep:15 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "(easily doubled or more)",
+  "Description": "Enjoy this crowd-pleasing tropical cocktail with coconut rum, gin and pineapple juice. It will sit happily in an ice bucket for several hours, ideal for summer barbecues",
+  "Ingredients": [
+   [
+    "300ml coconut rum",
+    "600ml pineapple juice (not from concentrate)",
+    "150ml gin",
+    "6 small chunks watermelon",
+    "12 coriander sprigs"
+   ],
+   [
+    "6 x 324ml screw-top jam jars with lids",
+    "ice bucket filled with ice"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "You will need"
+  ],
+  "Method": [
+   "Put 50ml coconut rum, 100ml pineapple juice, 25ml gin and 50ml cold water into each jam jar.",
+   "Stir, then garnish each one with a piece of watermelon and a couple of coriander sprigs, squeezing the leaves a little bit first before dropping them into the jars to help release the flavour. Screw on the lids and chill or set in ice buckets until needed – they will keep well for 4-6 hrs."
+  ]
+ },
+ {
+  "Id": 58,
+  "Name": "Lemon vodka jellies",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/lemon-vodka-jellies-4b0d013.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 1,
+  "Times": [
+   "Prep:20 mins",
+   "Cook:5 mins",
+   "plus overnight setting"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Makes 12",
+  "Description": "Serve these moreish lemon vodka jellies in hulled lemons to reduce waste and improve the flavour. The jelly mixture is based on a lemon drop cocktail",
+  "Ingredients": [
+   [
+    "3 large lemons",
+    "1 tbsp caster sugar",
+    "2 gelatine leaves",
+    "100ml vodka",
+    "50ml triple sec"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Cut the lemons in half lengthways and scoop out the flesh, reserving the hollowed-out halves. Chop the flesh in a blender, then push through a sieve into a bowl. Discard the pulp in the sieve. Measure out 100ml juice (top up with water if you need to), then pour into a pan with 50ml water and the sugar. Bring to a simmer.",
+   "Meanwhile, soak the gelatine in cold water. Remove the juice mixture from the heat. Squeeze the excess water from the gelatine, then add to the pan and stir to dissolve. Pour in the vodka and triple sec.",
+   "Set the reserved lemon halves, cut-side up, in the holes of a muffin tin and fill to the top with the jelly mix (pour any leftovers into cups). Leave to set in the fridge overnight. ",
+   "Cut each half into two wedges and serve well chilled."
+  ]
+ },
+ {
+  "Id": 59,
+  "Name": "Sidecar",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/sidecar-cocktail-79241f4.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 3,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Try your hand at recreating a classic 1920s cocktail, the sidecar. It's easy to adapt – simply use cognac, or go with equal parts cognac, triple sec and lemon juice",
+  "Ingredients": [
+   [
+    "50ml cognac",
+    "25ml triple sec",
+    "25ml lemon juice",
+    "handful of ice"
+   ],
+   [
+    "dash of Angostura bitters (optional)"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "To serve"
+  ],
+  "Method": [
+   "Put a coupe glass in the fridge to chill. Tip all of the ingredients into a cocktail shaker.",
+   "Shake well, until the outside of the shaker feels cold, then strain the cocktail into the chilled glass. If the lemon juice is too sharp, add the bitters to taste."
+  ]
+ },
+ {
+  "Id": 60,
+  "Name": "Tequila sunrise",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/tequila-sunrise-version-001-984d762.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.300000190734863,
+  "Ratings": 7,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Master the art of a classic tequila sunrise, with grenadine, tequila, triple sec, orange juice – and of course a cocktail cherry and umbrella as garnish",
+  "Ingredients": [
+   [
+    "2 tsp grenadine",
+    "ice",
+    "50ml tequila",
+    "1 tbsp triple sec",
+    "1 large orange, or 2 small ones, juiced",
+    "½ lemon, juiced",
+    "1 cocktail cherry"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Pour the grenadine into the base of a tall glass and set aside. Fill a cocktail shaker with ice and add the tequila, triple sec and fruit juices. Shake until the outside of the shaker feels cold.",
+   "Add a few ice cubes to the serving glass then carefully double strain the cocktail into it, trying not to disturb the grenadine layer too much. Add more ice if needed to fill the glass then garnish with a cherry on a stick or cocktail umbrella."
+  ]
+ },
+ {
+  "Id": 61,
+  "Name": "Classic snowball",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/snowball_xmas-353f255.jpg?quality=90\u0026resize=440,400",
+  "Stars": 3.700000047683716,
+  "Ratings": 7,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Serve a classic snowball at Christmas for your guests. With advocaat, lemonade and ice, it's the ultimate retro cocktail to celebrate the festive season",
+  "Ingredients": [
+   [
+    "10-15ml lime juice or lime cordial,  (optional)",
+    "50ml advocaat",
+    "50ml sparkling lemonade",
+    "ice, to serve"
+   ],
+   [
+    "1 maraschino cherry"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the garnish"
+  ],
+  "Method": [
+   "Fill a glass with ice and if using, add up to 15ml of lime juice or lime cordial (or to your taste). Pour the advocaat and lemonade over the ice and stir gently until the outside of the glass feels cold.",
+   "Garnish with the maraschino cherry."
+  ]
+ },
+ {
+  "Id": 62,
+  "Name": "Espresso martini",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/espresso-martini-f099531.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.099999904632568,
+  "Ratings": 35,
+  "Times": [
+   "Prep:5 mins",
+   "Cook:5 mins",
+   "plus cooling"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 2",
+  "Description": "Learn how to make this classic coffee cocktail. Our easy recipe uses freshly brewed espresso, a dash of coffee liqueur and a simple sugar syrup.",
+  "Ingredients": [
+   [
+    "100g golden caster sugar"
+   ],
+   [
+    "ice",
+    "100ml vodka",
+    "50ml freshly brewed espresso coffee",
+    "50ml coffee liqueur (we used Kahlua)",
+    "4 coffee beans (optional)"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the cocktail"
+  ],
+  "Method": [
+   "Start by making the sugar syrup. Put the caster sugar in a small pan over a medium heat and pour in 50ml water. Stir, and bring to the boil.",
+   "Turn off the heat and allow the mixture to cool. Put 2 martini glasses in the fridge to chill.",
+   "Once the sugar syrup is cold, pour 1 tbsp into a cocktail shaker along with a handful of ice, the vodka, espresso and coffee liqueur. Shake until the outside of the cocktail shaker feels icy cold.",
+   "Strain into the chilled glasses. Garnish each one with coffee beans if you like."
+  ]
+ },
+ {
+  "Id": 63,
+  "Name": "Blue lagoon",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/blue-lagoon-f2fd71f.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.699999809265137,
+  "Ratings": 3,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 4",
+  "Description": "Try our refreshing take on the classic blue lagoon with lemonade and fresh citrus juice. This boozy retro classic cocktail is perfect for parties",
+  "Ingredients": [
+   [
+    "few handfuls ice cubes and some crushed ice",
+    "100ml blue curaçao",
+    "100ml vodka",
+    "1 lemon , juiced",
+    "1 orange , juiced",
+    "1 lime , juiced",
+    "8 maraschino cherries and 1 tsp of the syrup",
+    "200ml soda water"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put the ice cubes in a large jug. Pour over the curaçao, vodka, fruit juices and 1 tsp syrup from the cherries. Stir until the outside of the glass feels cold.",
+   "Half-fill four hurricane glasses with crushed ice, then strain in the cocktail.",
+   "Top up the glasses with the soda water and gently stir, then garnish with the maraschino cherries."
+  ]
+ },
+ {
+  "Id": 64,
+  "Name": "Brandy alexander",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/brandy_alexander-09f9127.jpg?quality=90\u0026resize=440,400",
+  "Stars": 3.5999999046325684,
+  "Ratings": 3,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 2",
+  "Description": "Sprinkle spiced sugar on this creamy cocktail for a Christmassy after-dinner treat. We have three fruity twists as well",
+  "Ingredients": [
+   [
+    "80ml brandy",
+    "50ml crème de cacao",
+    "50ml double cream",
+    "ice"
+   ],
+   [
+    "1 tsp golden caster sugar",
+    "1 tsp ground nutmeg",
+    "1 tsp ground cinnamon"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "To garnish"
+  ],
+  "Method": [
+   "To make the garnish, mix the sugar, nutmeg and cinnamon together and set aside.",
+   "Pour the brandy, crème de cacao and double cream into a cocktail shaker (or see tip, below), then add a generous handful of ice. Shake until the outside of the shaker is very cold, then strain into two small coupe or cocktail glasses.",
+   "Garnish with a sprinkle of the spiced sugar, then serve.Serve these cocktails at your next dinner party. They’re so delectable, they double as dessert – serve with a teaspoon to enjoy all the toppings.Trifle alexanderDrop 1 black cherry in syrup into the bottom of two small cocktail glasses along with a dash of the syrup. Tip 80ml brandy, 50ml sweet sherry, 50ml double cream, 1 tsp sugar syrup and ¼ tsp vanilla bean paste into a blender with a small handful of ice. Blitz until smooth and very cold, then pour into the prepared glasses. Top with whipped cream and sprinkles, then serve with savoiardi biscuits or sponge fingers for dipping. Serves 2.Strawberry alexanderBlitz 80ml gin, 50g frozen strawberries, 50ml double cream, 25ml triple sec and 25ml water in a blender until very smooth. Pour into two tumblers and garnish each with a mini meringue, mint leaves and a pinch of freeze-dried strawberries. Serves 2.Passion fruit \u0026 coconut alexanderTip 80ml cachaça, 50ml coconut rum, 50ml double cream and the flesh of 1 passion fruit into a cocktail shaker with a handful of ice. Shake until the outside of the shaker is cold, then double strain the cocktail into two martini glasses. Cut 1 passion fruit in half and drizzle the halves with a couple of drops of coconut rum. Float one half, cut-side up, on top of each cocktail. Serves 2."
+  ]
+ },
+ {
+  "Id": 65,
+  "Name": "French martini",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/french-martini-03b9a1a.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 5,
+  "Times": [
+   "Prep:5 mins",
+   "No cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Mix up this flamboyant martini with Chambord liqueur. You can also customise the cocktail by using vanilla vodka, or by adding a splash of champagne or prosecco",
+  "Ingredients": [
+   [
+    "40ml vodka",
+    "20ml Chambord liqueur",
+    "60ml pressed pineapple juice",
+    "pineapple wedge, to serve"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Shake the vodka, Chambord and pineapple juice with ice really hard until the pineapple juice froths up a bit, then strain into the glass. Garnish with the pineapple wedge."
+  ]
+ },
+ {
+  "Id": 66,
+  "Name": "Gin fizz",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/gin-fizz-c30e7ed.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.699999809265137,
+  "Ratings": 6,
+  "Times": [
+   "Prep:5 mins",
+   "No cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Mix a sparkling gin fizz cocktail (or two) for when you're entertaining. With just a handful of ingredients you can create a refreshing drink that evokes summer",
+  "Ingredients": [
+   [
+    "50ml gin",
+    "25ml lemon juice",
+    "2 tsp sugar syrup",
+    "ice",
+    "sparkling water",
+    "lemon slice"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Pour the gin, lemon juice and sugar syrup in a cocktail shaker and fill up with ice cubes. Shake well until the outside of the shaker feels cold then strain into a tall glass filled with more ice and top up with sparkling water. Garnish with a lemon slice."
+  ]
+ },
+ {
+  "Id": 67,
+  "Name": "Mango \u0026 pineapple mojito",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/mango-and-pineapple-mojito-15b1c1a.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.5,
+  "Ratings": 2,
+  "Times": [
+   "Prep:5 mins",
+   "No cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 6",
+  "Description": "Give your favourite classic cocktail a tropical twist with our mango and pineapple mojito. This vibrant, fruity drink is perfect for summer party season",
+  "Ingredients": [
+   [
+    "50g pineapple pieces",
+    "50g chopped mango",
+    "3 limes , chopped",
+    "2 tbsp light brown soft sugar",
+    "2 mint sprigs , leaves picked ",
+    "ice",
+    "150ml white rum",
+    "200ml pineapple rum",
+    "600ml sparkling water"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Tip the pineapple, mango, limes and sugar into a large jug and muddle together. Bruise and add the mint leaves, then top with ice. Stir in the white rum, pineapple rum and sparkling water."
+  ]
+ },
+ {
+  "Id": 68,
+  "Name": "Sloe vodka",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/sloe-vodka-b1de56b.jpg?quality=90\u0026resize=440,400",
+  "Stars": 3.299999952316284,
+  "Ratings": 7,
+  "Times": [
+   "Prep:20 mins - 30 mins",
+   "plus at least 2-3 months maturing"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Makes about 1.5 litres",
+  "Description": "Turn a bounty of seasonal fruit into a fabulous infusion. Our easy homemade sloe vodka makes a delicious gift and is great for using in cocktails.",
+  "Ingredients": [
+   [
+    "500g ripe sloes",
+    "250g golden caster sugar",
+    "1l vodka"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Rinse and pick over the sloes to remove any leaves and stalks, then pat dry. Prick the sloes using a stainless steel fork or cocktail stick, and tip into a 2-litre jar, or divide between two smaller jars.",
+   "Add the sugar and vodka, then seal the jar and shake well. Once a day for seven days, give the jar a good shake. Store the jar in a cool, dark place and leave for two to three months.",
+   "Line a plastic sieve with a square of muslin (or use a coffee filter in a cone for a really refined vodka) and strain the sloe vodka through it. Decant into clean, dry bottles, then seal and label. The sloe vodka is now ready to drink but it'll improve and mature over time – so, if possible, make it one year to drink the next."
+  ]
+ },
+ {
+  "Id": 69,
+  "Name": "Classic negroni",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/classic-negroni-6649448.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 3,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "To make the perfect classic negroni cocktail all you need is balance: use equal parts gin, vermouth and Campari, and choose the best products you have in reach",
+  "Ingredients": [
+   [
+    "25ml gin",
+    "25ml sweet vermouth",
+    "25ml Campari",
+    "ice"
+   ],
+   [
+    "slice of orange"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the garnish"
+  ],
+  "Method": [
+   "Pour the gin, vermouth and Campari into a mixing glass or jug with ice. Stir well until the outside of the glass feels cold.",
+   "Strain into a tumbler and add 1 large ice sphere or some fresh ice, and garnish with an orange slice, using a blood orange when in season."
+  ]
+ },
+ {
+  "Id": 70,
+  "Name": "Paloma",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/tequila_paloma-7ebc01c.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 3,
+  "Times": [
+   "Prep:10 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Tequila, pink grapefruit and lime juice give this cocktail a real kick. Garnish the rim of your glass with salt and a wedge of grapefruit for extra punch",
+  "Ingredients": [
+   [
+    "ice",
+    "50ml tequila blanco (we used El Jimador)",
+    "10ml agave syrup",
+    "10ml lime juice",
+    "60ml pink grapefruit juice",
+    "soda water"
+   ],
+   [
+    "sea salt",
+    "wedge pink grapefruit"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the garnish"
+  ],
+  "Method": [
+   "Dip the rim of a highball glass in a bowl of water, shake off the excess, then sprinkle a spoonful of salt onto a plate or saucer and dip the glass into that to coat the rim.",
+   "Fill a cocktail shaker with ice, then add all the remaining ingredients minus the soda water. Shake until the outside of the shaker feels cold, then strain into your prepared glass. Add a few fresh ice cubes and top with soda water to serve. Garnish with the wedge of grapefruit."
+  ]
+ },
+ {
+  "Id": 71,
+  "Name": "Whiskey sour",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/whiskey-sours-bd5e6dc.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.800000190734863,
+  "Ratings": 9,
+  "Times": [
+   "Prep:5 mins",
+   "Cook:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Dust off that cocktail shaker and mix yourself – or your dinner party guests – a classic whiskey sour. You can make it without egg white, but it won't be as silky",
+  "Ingredients": [
+   [
+    "50ml bourbon",
+    "35ml lemon juice",
+    "12½ml 2:1 sugar syrup",
+    "2 dashes Angostura bitters",
+    "½  fresh egg white",
+    "ice",
+    "50p-sized piece of lemon zest"
+   ],
+   [
+    "slice of  orange and a cherry on a stick"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the garnish"
+  ],
+  "Method": [
+   "Shake all of the ingredients (except for the lemon zest) hard with ice and strain into an ice-filled rocks glass. Squeeze the lemon zest, shiny side down over the drink so the scented oils spray across the surface. Discard the zest, add the garnish and serve."
+  ]
+ },
+ {
+  "Id": 72,
+  "Name": "Strawberry mojito",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/strawberry-mojito-99f1388.jpg?quality=90\u0026resize=440,400",
+  "Stars": 3.5,
+  "Ratings": 6,
+  "Times": [
+   "Prep:5 mins",
+   "No cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 6",
+  "Description": "Mix up a refreshing strawberry mojito to sip in the summer sun. This easy, fruity cocktail is perfect for barbecue season or a relaxed party with friends",
+  "Ingredients": [
+   [
+    "9-10 strawberries",
+    "2 limes , chopped",
+    "2 tbsp granulated sugar",
+    "2 mint sprigs , leaves picked ",
+    "ice",
+    "350ml white rum",
+    "600ml sparkling water"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Muddle the strawberries, limes and sugar in a large jug. Bruise the mint leaves and add to the jug with a pinch of black pepper. Add lots of ice and stir in the rum and sparkling water."
+  ]
+ },
+ {
+  "Id": 73,
+  "Name": "Caipiroska",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/440x400-caipirovska-092cd44.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 2,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "This twist on a Brazilian caipirinha is a perfect party cocktail. Muddle chunks of lime and granulated sugar together and top with vodka and crushed ice",
+  "Ingredients": [
+   [
+    "1 lime",
+    "2 tsp golden granulated sugar",
+    "50ml vodka",
+    "crushed ice"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Cut the lime into small chunks, then put it into the bottom of a sturdy tumbler and add the golden granulated sugar. Crush really well with a muddler – you can also do this with a pestle and mortar.",
+   "Top up the tumbler with crushed ice, then add the vodka. Stir well to mix all the ingredients together, and serve. "
+  ]
+ },
+ {
+  "Id": 74,
+  "Name": "Woo woo",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/440x400-woo-woo-1a6bc34.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.800000190734863,
+  "Ratings": 4,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Mix vodka, peach schnapps, cranberry juice and fresh lime to make this perfect party cocktail, garnished with a lime wedge (and maybe a tiny umbrella too)",
+  "Ingredients": [
+   [
+    "50ml vodka",
+    "25ml peach schnapps",
+    "100ml cranberry juice",
+    "few drops fresh lime juice",
+    "ice",
+    "wedge of lime"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Fill a cocktail shaker with ice then add the vodka, peach schnapps, cranberry juice and a few drops of lime juice. Shake really well then strain into a tumbler with extra ice. Garnish with a wedge of lime. "
+  ]
+ },
+ {
+  "Id": 75,
+  "Name": "Lemon drop",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/440x400-lemon-drop-3cdee7d.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 3,
+  "Times": [
+   "Prep:10 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Mix vodka, lemon juice and triple sec, shaken with ice to make this refreshing lemon drop cocktail. Dip the rim of the glass in sugar to impress party guests",
+  "Ingredients": [
+   [
+    "1 tbsp white caster sugar",
+    "zest of ½ a  lemon",
+    "50ml vodka",
+    "25ml triple sec",
+    "25ml lemon juice",
+    "handful of ice"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put 1 martini glass in the fridge to chill. Mix the white caster sugar with the finely grated zest of the lemon, and set aside.",
+   "Pour the vodka into a cocktail shaker and add the triple sec, lemon juice and a handful of ice. Shake really well until the outside of the shaker feels cold.",
+   "Dip the rim of the chilled glass in water, shake off the excess then dip into the sugar and lemon zest mix.",
+   "Strain the contents of the shaker into your prepared glass and enjoy."
+  ]
+ },
+ {
+  "Id": 76,
+  "Name": "Toffee vodka",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/toffee_cocktail-928ca99.jpg?quality=90\u0026resize=440,400",
+  "Stars": 3,
+  "Ratings": 2,
+  "Times": [
+   "Prep:10 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Makes around 800ml",
+  "Description": "Impress party guests with homemade toffee vodka cocktails. They're easy to make and are a great birthday or Christmas gift for cocktail lovers",
+  "Ingredients": [
+   [
+    "200g hard toffees",
+    "4 tbsp soft dark brown sugar",
+    "750ml vodka"
+   ],
+   [
+    "A funnel , coffee filter paper and a 1-litre sterilised lidded jar and 1 sterilised bottle (approx. 1-litre capacity)"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "You will also need"
+  ],
+  "Method": [
+   "Unwrap the toffees and put in a plastic food bag and smash with a rolling pin to break them into small pieces. Tip the toffee shards into the sterilised jar, then add the sugar and a pinch of sea salt. ",
+   "Pour the vodka over the toffee mixture and stir. Leave in a cool dark place for two days or until the toffees have dissolved. Shake the jar twice a day during this time. ",
+   "Once the toffee and sugar has dissolved, line a funnel with a coffee filter paper and set it over the sterilised bottle. Slowly pour the mixture through. Seal and store in a cupboard for up to three months, and shake before serving. "
+  ]
+ },
+ {
+  "Id": 77,
+  "Name": "Negroni sbagliato",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/negroni-sbagliato-47aacf1.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.300000190734863,
+  "Ratings": 3,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "For a vibrant take on the negroni cocktail use prosecco instead of gin, with Campari and vermouth. Serve in a highball glass with an orange slice",
+  "Ingredients": [
+   [
+    "25ml Campari",
+    "25ml sweet vermouth",
+    "prosecco to top up",
+    "ice"
+   ],
+   [
+    "1 orange slice "
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the garnish"
+  ],
+  "Method": [
+   "In a highball glass pour the Campari and sweet vermouth, add cubed ice and gently add in the prosecco – pouring it down a bar or long spoon that's been placed in the glass will stop the bubbles roaming over the edge of the glass. Stir contents of the glass together, top up further and garnish with the orange slice."
+  ]
+ },
+ {
+  "Id": 78,
+  "Name": "Watermelon prosecco sorbet slushies",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/watermelon-prosecco-sorbet-slushies-8abdbbe.jpg?quality=90\u0026resize=440,400",
+  "Stars": 3.4000000953674316,
+  "Ratings": 3,
+  "Times": [
+   "Prep:20 mins",
+   "plus 4 hrs freezing"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 6",
+  "Description": "What better way to end a garden party than with a cocktail/sorbet combo? These watermelon prosecco slushies are refreshing with a real kick",
+  "Ingredients": [
+   [
+    "1 watermelon (about 2kg)",
+    "200ml prosecco , plus a little extra",
+    "3 mint sprigs, plus extra to serve",
+    "½ lemon , zest pared",
+    "50g sugar"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Cut the watermelon into quarters and remove the pips using a teaspoon. If you’re serving the same day or next day, keep six wedges or slices back for decorating and chill. Cut the flesh into 3cm cubes (you should have about 1kg fruit, with the rind discarded) and sit in a baking parchment-lined container where the cubes fit snugly. Pour the prosecco over the fruit, cover and freeze for 4 hrs, or up to 1 week.",
+   "Put the mint, lemon and sugar in a small pan with 50ml water, and bring to a gentle simmer for 3-5 mins until the sugar dissolves and turns syrupy. Cover and leave to cool completely, then strain.",
+   "Put the frozen prosecco-soaked watermelon cubes in a food processor with the sugar syrup. Blend well, stopping and pushing the mixture towards the blades with a spatula every few seconds, if you need to, until it’s a slushy consistency. Add a splash more prosecco to make a smooth slush. Spoon or pour into six chilled glasses. Garnish with the chilled watermelon wedges and little mint sprigs."
+  ]
+ },
+ {
+  "Id": 79,
+  "Name": "Tequila pina del oro",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/tequila_pina-607918e.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 1,
+  "Times": [
+   "Prep:15 mins",
+   "Plus cooling"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1 (with sage syrup leftover)",
+  "Description": "Tequila and pineapple juice combine to make this fruity cocktail made with a fabulous sage syrup. Garnish with a sage leaf to serve to guests",
+  "Ingredients": [
+   [
+    "ice",
+    "50ml reposado tequila (we used Herradura Reposado) ",
+    "60ml pineapple juice",
+    "15ml lime juice",
+    "3 drops Peychaud’s bitters"
+   ],
+   [
+    "½ pack fresh sage",
+    "500g white caster sugar"
+   ],
+   [
+    "1 fresh sage leaf"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the sage syrup",
+   "For the garnish"
+  ],
+  "Method": [
+   "Start by making the sage syrup; pour 500ml boiling water on the bunch of sage leaves in a bowl and let sit for 5 mins. Remove the sage, then add sugar to the infused water and stir until the sugar dissolves. Leave to cool completely. ",
+   "To make the cocktail, put 15ml of the sage syrup in to a cocktail shaker along with a handful of ice and all the other ingredients. Shake together and serve straight up in a sherry glass, garnished with a sage leaf."
+  ]
+ },
+ {
+  "Id": 80,
+  "Name": "Sea breeze",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/440x400-sea-breeze-b31b188.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.699999809265137,
+  "Ratings": 3,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Blend vodka, cranberry juice and grapefruit juice to make a classic sea breeze cocktail. Serve in a tall glass and garnish with lime for a taste of summer",
+  "Ingredients": [
+   [
+    "50ml vodka",
+    "100ml cranberry juice",
+    "50ml grapefruit juice",
+    "ice",
+    "thin slice of lime"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Half-fill a tall glass with ice then pour in the vodka, cranberry juice and grapefruit juice.",
+   "Stir gently until the outside of the glass feels cold, then garnish with the lime slice."
+  ]
+ },
+ {
+  "Id": 81,
+  "Name": "Saké aperitif",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/sake-cocktail-ca29662.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 1,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Mix saké with sherry, madeira, elderflower and maple syrups to make this aperitif cocktail. Garnish with a piece of grapefruit zest for the ultimate finish",
+  "Ingredients": [
+   [
+    "50ml saké",
+    "15ml sherry (we used Pedro Ximénez)",
+    "15ml madeira",
+    "1 tsp elderflower liqueur",
+    "1-2 tsp maple syrup",
+    "ice"
+   ],
+   [
+    "piece of grapefruit zest"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the garnish"
+  ],
+  "Method": [
+   "Mix all the ingredients together well in a mixing glass or jug. Then fill the glass up with ice and stir again to chill the cocktail. ",
+   "Strain the mixture into a sherry or port glass. Garnish with a small piece of grapefruit zest. "
+  ]
+ },
+ {
+  "Id": 82,
+  "Name": "Daiquiri",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/lime-daiquiri-7ac7e81.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4,
+  "Ratings": 5,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Master the art of the daiquiri with white rum, sugar and lime. We also have three twists on this classic cocktail that will go down a storm at any party",
+  "Ingredients": [
+   [
+    "50ml white rum",
+    "25ml lime juice",
+    "10ml sugar syrup",
+    "ice"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Shake all the ingredients in a cocktail shaker and strain into a cocktail glass. Strawberry daiquiriThis cocktail should only be attempted with fruit that’s really ripe and sweet – if the berries are the big, bland variety from the chiller cabinet, the end result will just taste of mush. Allow one large handful of hulled strawberries for each cocktail. Place them in the empty shaker and give them a gentle crush with a muddler or pestle, then add the other ingredients and shake as normal and strain into your cocktail glass. Out of season, you could also make a version of this drink using Funkin strawberry purée which will be almost as good. Hemingway’s ‘Papa Doble’ daiquiriThe writer Ernest Hemingway drank at El Floridita in Havana so often they ended up creating a daiquiri recipe especially for him called the Papa Doble, made with a quadruple measure of white rum, lime, grapefruit juice and maraschino liqueur. I don’t think many of us could handle a drink this size – as delicious as it is – so I’ve scaled it back a bit: 50ml white rum, 15ml pink grapefruit juice, 15ml lime juice, 15ml Luxardo maraschino liqueur, 5ml sugar syrup, shaken and strained into a cocktail glass or blended with ice, depending on what you prefer. La Terraza’s blue daiquiriAnother place Hemingway liked to drink when he went fishing was a little waterside bar about 10 miles outside Havana called La Terraza. La Terraza’s signature daiquiri is made with blue curaçao, so it’s the colour of a lagoon. You can make one too, simply by substituting 15ml Bols Blue curaçao in a normal daiquiri in place of the sugar syrup. A delicious guilty pleasure on a summer’s day, especially with a cocktail umbrella."
+  ]
+ },
+ {
+  "Id": 83,
+  "Name": "Pink negroni",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/classic-negroni-dfc0ca9.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4,
+  "Ratings": 1,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Go pink with this fabulous cocktail flavoured with pink gin, rose vermouth and Aperol. Garnish with a wedge of pink grapefruit and a basil leaf to serve",
+  "Ingredients": [
+   [
+    "35ml pink gin",
+    "25ml rose vermouth , or sweet white vermouth",
+    "15ml Aperol",
+    "ice",
+    "wedge of pink grapefruit and a basil leaf, to garnish"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Combine the pink gin, vermouth and Aperol in a tumbler with a small handful of ice. Stir until the outside of the glass feels cold. ",
+   "Garnish with a wedge of pink grapefruit and a basil leaf."
+  ]
+ },
+ {
+  "Id": 84,
+  "Name": "Mojito recipe",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/mojito-cocktails-150961e.jpg?quality=90\u0026resize=430,390",
+  "Stars": 4.800000190734863,
+  "Ratings": 22,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Makes 1",
+  "Description": "Mix this classic cocktail for a party using fresh mint, white rum, sugar, zesty lime and cooling soda water. Play with the quantities to suit your taste.",
+  "Ingredients": [
+   [
+    "juice of 1 lime",
+    "1 tsp granulated sugar",
+    "small handful mint leaves, plus extra sprig to serve",
+    "60ml white rum",
+    "soda water, to taste"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Muddle the lime juice, sugar and mint leaves in a small jug, crushing the mint as you go – you can use the end of a rolling pin for this. Pour into a tall glass and add a handful of ice.",
+   "Pour over the rum, stirring with a long-handled spoon. Top up with soda water, garnish with mint and serve."
+  ]
+ },
+ {
+  "Id": 85,
+  "Name": "Bramble",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/bramble-baa53ba.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.199999809265137,
+  "Ratings": 5,
+  "Times": [
+   "Prep:5 mins",
+   "No cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Mix a classic bramble cocktail, essentially a gin sour spiked with an eye-catching shot of blackberry liqueur. We have three twists, too – ideal if you're entertaining",
+  "Ingredients": [
+   [
+    "50ml gin",
+    "25ml lemon juice",
+    "¾tbsp sugar syrup",
+    "ice cubes",
+    "crushed ice",
+    "¾tbsp crème de mure",
+    "1 lemon slice and a blackberry (if in season) to serve"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Shake the gin, lemon juice and sugar syrup in a cocktail shaker with a good handful of ice cubes then strain into a rocks glass full of crushed ice. Drizzle the crème de mure over the top so it ‘bleeds’ into the drink. Garnish with the lemon slice and blackberry, if using.Fresh fruit brambleThis drink is one to make when the hedgerows are groaning with ripe fruit. Start by muddling 6 blackberries in a rocks glass. Add 50ml gin, 25ml lemon juice, 25ml sugar syrup and fill the glass two thirds full with crushed ice. Mix with a long-handled spoon. Top with more crushed ice, a garnish and paper straws.Bramble royaleGo glam with your bramble by adding a splash of champagne to the mix. Just make the drink as normal but reduce the amount of crushed ice by about a third to leave room for the fizz. Then top with 25-50ml of champagne, mix gently, add a bit more crushed ice, garnish and serve.Peach sourThe classic ‘sour’ formula that the bramble sticks to is easy to adapt by switching out the liqueur. Try 12.5ml of crème de peche instead of crème de mure – it might not look quite as eye-catching as the bloodshot bramble but it will taste just as delicious."
+  ]
+ },
+ {
+  "Id": 86,
+  "Name": "Tequila diablo rojo",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/tequila_diablo-ef22713.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 1,
+  "Times": [
+   "Prep:10 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Mix tequila, ginger beer and lime juice and finish with with crème de cassis and pomegranate seeds for a luscious cocktail that really packs a punch",
+  "Ingredients": [
+   [
+    "ice",
+    "50ml tequila blanco (we used El Jimador)",
+    "15ml lime juice",
+    "15ml sugar syrup",
+    "125-150ml ginger beer",
+    "1-2 tsp crème de cassis to finish"
+   ],
+   [
+    "1 tsp pomegranate seeds"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the garnish"
+  ],
+  "Method": [
+   "Half-fill a tall glass with ice then add the tequila, lime and sugar syrup. Stir gently to combine then top up with ginger beer then stir once more.  ",
+   "Slowly pour the crème de cassis and garnish with a few pomegranate seeds dropped into the glass."
+  ]
+ },
+ {
+  "Id": 87,
+  "Name": "Manhattan",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/manhattan-73cd16b.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 1,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Combine dry and sweet vermouth to make the perfect Manhattan cocktail. Add bourbon, Angostura bitters and morello cherry to complete the classic flavour combination",
+  "Ingredients": [
+   [
+    "75ml bourbon (we used Woodford Reserve)",
+    "15ml sweet vermouth (we used Martini Rosso)",
+    "15ml extra dry vermouth (we used Martini)",
+    "2 dashes of Angostura bitters",
+    "5ml cherry eau de vie (we used Somerset Cider Brandy Company Morello Cherry Eau de Vie)",
+    "ice"
+   ],
+   [
+    "1 strip of orange zest"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the garnish"
+  ],
+  "Method": [
+   "Pour all of the ingredients into a mixing glass, add cubed ice and stir. ",
+   "When the desired dilution has been achieved, strain into a martini coupe.",
+   "Garnish with orange zest, making sure to release the oils with and around the glass."
+  ]
+ },
+ {
+  "Id": 88,
+  "Name": "Clover club",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/clover-17f32ee.jpg?quality=90\u0026resize=440,400",
+  "Stars": 3.5,
+  "Ratings": 2,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Mix up a clover cocktail – a refreshing summer tipple made with gin, dry vermouth, lemon and raspberries and featuring a fabulous foam topping",
+  "Ingredients": [
+   [
+    "50ml gin",
+    "1 tbsp dry vermouth",
+    "5 fresh raspberries",
+    "25ml raspberry cordial (see tip, below)",
+    "25ml lemon juice",
+    "1 tbsp egg white",
+    "handful ice"
+   ],
+   [
+    "3 raspberries and a mint sprig skewered on a cocktail stick"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the garnish"
+  ],
+  "Method": [
+   "Put all of the ingredients except the ice in a cocktail shaker. Shake hard for 1-2 mins to froth up the egg white.",
+   "Add the ice, then shake again until the outside of the shaker feels ice-cold.",
+   "Double-strain into a chilled coupe glass, then add the raspberry and mint garnish."
+  ]
+ },
+ {
+  "Id": 89,
+  "Name": "Damson vodka",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/damson-vodka-7c5f2f6.jpg?quality=90\u0026resize=440,400",
+  "Stars": 3,
+  "Ratings": 2,
+  "Times": [
+   "Prep:30 mins",
+   "plus 12 hours freezing and 2-3 months maturing time"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Makes 1.5 litres",
+  "Description": "Make the most of autumnal fruit with our simple homemade damson vodka recipe. This autumnal drink is delicious neat or served in seasonal cocktails",
+  "Ingredients": [
+   [
+    "500g damsons",
+    "250g golden caster sugar",
+    "1l bottle of vodka"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Rinse and pick over the damsons to remove any leaves and stalks, then pat dry, tip into a freezer bag and freeze overnight. The next day, bash the bag of damsons a couple of times with a rolling pin, then tip the lot into a 2-litre jar, or divide between two smaller jars.",
+   "Pour in the sugar and vodka, and put the lid on. Shake well. Each day for a week, give the jar a good shake until all the sugar has dissolved, then put it in a cool, dark place and leave for two to three months.",
+   "Line a plastic sieve with a square of muslin (or use a coffee filter in a cone for a really refined vodka) and strain the damson gin through it. Decant into clean, dry bottles, then seal and label. The vodka is now ready to drink, but will improve and mature over time – it will keep for over a year, if you can wait that long."
+  ]
+ },
+ {
+  "Id": 90,
+  "Name": "Elderflower \u0026 herb cooler",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/elderflower-73f55b4.jpg?quality=90\u0026resize=430,390",
+  "Stars": 5,
+  "Ratings": 4,
+  "Times": [
+   "Prep:10 mins",
+   "no cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 4",
+  "Description": "Make the perfect spring cocktail with a spritz of elderflower and beautiful edible flowers to finish",
+  "Ingredients": [
+   [
+    "2 thyme sprigs , leaves only",
+    "2 rosemary sprigs, leaves only",
+    "8 edible flowers (such as pansies, rose petals and borage)",
+    "50ml elderflower cordial",
+    "150ml elderflower liqueur",
+    "150ml gin",
+    "ice",
+    "330ml can sparkling water"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Pop the herbs and flowers into the holes of an ice cube tray, fill with water and freeze for 2-3 hrs or until frozen solid.",
+   "Pour the elderflower cordial, elderflower liqueur, gin and a large handful of ice cubes into a large jug. Stir until the outside of the jug feels cold then strain into 4 tall glasses or champagne flutes. Top with the soda and add a few more ice cubes and the floral ones too. Serve immediately."
+  ]
+ },
+ {
+  "Id": 91,
+  "Name": "Aperitivo spritz",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/440x400-apertivio-spritz-c70facf.jpg?quality=90\u0026resize=438,398",
+  "Stars": 5,
+  "Ratings": 1,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Love pre-dinner cocktails? Serve the perfect aperitif by blending Aperol or Campari with sparkling water and a generous amount of your favourite champagne",
+  "Ingredients": [
+   [
+    "50ml aperitif such as Aperol or Campari",
+    "25ml sparkling water",
+    "champagne",
+    "ice cubes"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Drop a few ice cubes into the bottom of a wine glass.",
+   "Pour the aperitif into the glass, followed by the sparkling water, and then fill up the glass with champagne."
+  ]
+ },
+ {
+  "Id": 92,
+  "Name": "Sgroppino",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/440x400-scroppino-bfc006f.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 1,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Blend lemon sorbet with vodka and champagne to make sgroppino, an Italian cocktail. It's a wonderfully refreshing palate cleanser at the end of a dinner party",
+  "Ingredients": [
+   [
+    "2 tsp lemon sorbet",
+    "1 tsp vodka",
+    "champagne"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put the lemon sorbet into the bottom of a champagne flute.",
+   "Pour over the vodka, then top with champagne."
+  ]
+ },
+ {
+  "Id": 93,
+  "Name": "Courgette martini",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/courgette-martini-cba18e8.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.800000190734863,
+  "Ratings": 5,
+  "Times": [
+   "Prep:10 mins",
+   "plus chilling, no cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Courgette and martini may seem unlikely bedfellows, but blended with lemon and shots of gin and vermouth, this is a delicious take on a cocktail classic",
+  "Ingredients": [
+   [
+    "1 courgette , coarsely grated",
+    "juice 2 lemons",
+    "2 tbsp caster sugar",
+    "25ml vermouth",
+    "50ml gin",
+    "ice",
+    "mint leaf to garnish"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Mix the courgette with the lemon juice and sugar and leave to steep for 1 hr. In the meantime, place a martini glass in the fridge to chill.",
+   "Strain the courgette mixture through a sieve into a jug. Fill a cocktail shaker with ice then add 25ml of the courgette syrup followed by the vermouth and gin. Stir gently a few times then strain into your chilled glass. Garnish with a mint leaf and serve."
+  ]
+ },
+ {
+  "Id": 94,
+  "Name": "Champagne mojito",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/440x400-champagne-mojito-02a3d90.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 1,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "If you love mojitos and champagne, this will be the cocktail of your dreams. Combine rum, mint, sugar syrup and Angostura bitters and top it up with champers",
+  "Ingredients": [
+   [
+    "5 mint leaves",
+    "25ml rum",
+    "juice of ½ a lime",
+    "1 tsp sugar syrup",
+    "a few dashes of Angostura bitters",
+    "champagne",
+    "ice cubes"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put a few ice cubes into a wine glass then hold the mint leaves in the palm of one hand and clap your other hand over it – this will bruise the leaves just enough without making them bitter.",
+   "Drop the leaves into the glass then pour over the rum, lime, sugar syrup and Angostura bitters.",
+   "Stir very gently, then slowly top with champagne."
+  ]
+ },
+ {
+  "Id": 95,
+  "Name": "Whisky highball",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/whisky-highball-version-001-f5.6-2549b81.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4,
+  "Ratings": 2,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Try this take on the whisky highball cocktail, with mint leaves, sparkling water and a lemon garnish to make the most of the classic flavours",
+  "Ingredients": [
+   [
+    "50ml whisky",
+    "100-150ml sparkling water",
+    "strip of lemon zest",
+    "2-3 mint leaves (optional) ",
+    "ice"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Fill a tall glass with ice, pour in the whisky and then add the sparkling water. Drop in the lemon zest to garnish and the mint leaves if using. Stir in a gentle folding motion to combine the flavours."
+  ]
+ },
+ {
+  "Id": 96,
+  "Name": "Caipirinha",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/caiprinhia-8a2570b.jpg?quality=90\u0026resize=440,400",
+  "Stars": 3,
+  "Ratings": 2,
+  "Times": [
+   "Prep:5 mins",
+   "No cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 4",
+  "Description": "Enjoy a refreshing caipirinha at a summer barbecue or party. This classic cocktail is made with cachaça, lime and sugar. Serve with fresh wedges of lime",
+  "Ingredients": [
+   [
+    "2 limes , chopped into wedges, plus extra lime wedges to serve (optional)",
+    "5 tbsp golden caster sugar",
+    "200ml cachaça",
+    "ice"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put the lime wedges in a large jug with the sugar, then use a muddler or the end of a rolling pin to break them down. Release as much juice from the wedges as possible, and let it mix with the sugar to create a syrup – you can also do this with a large pestle and mortar. Discard the lime peel.",
+   "Divide the syrup and cachaça between four glasses, then top with the crushed ice. Serve garnished with lime wedges, if you like."
+  ]
+ },
+ {
+  "Id": 97,
+  "Name": "Moscow mule",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/moscow-mule-cocktails-ebbe4ec.jpg?quality=90\u0026resize=500,454",
+  "Stars": 5,
+  "Ratings": 1,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Mix vodka with ginger beer and crushed ice and you have yourself a Moscow mule cocktail. Serve in a metal mug and garnish with mint leaves and lime",
+  "Ingredients": [
+   [
+    "50ml vodka",
+    "crushed ice",
+    "150-200ml ginger beer",
+    "few dashes of ginger bitters"
+   ],
+   [
+    "sprig of mint",
+    "wedge of  lime"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "To serve"
+  ],
+  "Method": [
+   "Pour the vodka into a metal mug, julep tin or tumbler. Load up ¾ full with crushed ice, then fill to the top with the ginger beer and stir gently to combine. Add a few dashes of ginger bitters. Serve with a sprig of mint to garnish and the lime to squeeze over. "
+  ]
+ },
+ {
+  "Id": 98,
+  "Name": "Appletini",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/440x400-appletini-ed9f3cc.jpg?quality=90\u0026resize=440,400",
+  "Stars": 3.4000000953674316,
+  "Ratings": 6,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Mix vodka with apple juice, lemon juice and maple syrup to make this divine appletini cocktail. Serve in a martini glass and garnish with a slice of apple",
+  "Ingredients": [
+   [
+    "50ml vodka",
+    "50ml cloudy apple juice",
+    "1 tsp lemon juice",
+    "1 tsp maple syrup",
+    "a slice of apple , to serve"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Shake the vodka, cloudy apple juice, lemon juice and maple syrup in an ice-filled shaker until the outside of the shaker feels very cold.",
+   "Strain into a martini glass and garnish with a slice of apple."
+  ]
+ },
+ {
+  "Id": 99,
+  "Name": "Apple prosecco punch",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/apple-prosecco-punch-d53f55e.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.199999809265137,
+  "Ratings": 5,
+  "Times": [
+   "Prep:5 mins",
+   "plus chilling, no cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 10 - 15",
+  "Description": "Spritz up a basic apple cocktail with a dash of prosecco and a splash of vodka",
+  "Ingredients": [
+   [
+    "400ml cloudy apple juice",
+    "200ml vodka",
+    "juice 2 lemons",
+    "750ml prosecco",
+    "ice",
+    "1 green apple , cored and finely sliced",
+    "1 lemon , sliced"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Pour the apple juice, vodka and lemon juice into a punch bowl and chill for 1-2 hrs.",
+   "When you’re ready to serve add the prosecco, ice and apple and lemon slices to garnish."
+  ]
+ },
+ {
+  "Id": 100,
+  "Name": "Coco fizz",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/cocktails-coco-fizz12521-ae3a364.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 4,
+  "Times": [
+   "Prep:5 mins",
+   "no cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Spruce up the classic coconut and rum combination with a dash of Prosecco and a squeeze of lime for a festive cocktail you can shake up in seconds",
+  "Ingredients": [
+   [
+    "25ml coconut rum",
+    "50ml coconut water",
+    "juice of ½ lime",
+    "ice",
+    "50ml prosecco"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put the coconut rum, coconut water and lime juice into a cocktail shaker, add ice and shake until the outside of the shaker is icy-cold to the touch. Strain into a chilled coupe glass, top with the Prosecco and serve."
+  ]
+ },
+ {
+  "Id": 101,
+  "Name": "Kir royale",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/440x400-kir-royale-40283e2.jpg?quality=90\u0026resize=440,400",
+  "Stars": 3.5999999046325684,
+  "Ratings": 3,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Make a classic kir royale cocktail with crème de cassis (blackcurrant liqueur) and your favourite champagne. Garnish with a blackberry to serve to guests",
+  "Ingredients": [
+   [
+    "1 tbsp crème de cassis",
+    "champagne",
+    "1 fresh or frozen blackberry"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Pour the crème de cassis into the bottom of a champagne flute.",
+   "Top with chilled champagne and garnish with the fresh or frozen blackberry."
+  ]
+ },
+ {
+  "Id": 102,
+  "Name": "Vermouth \u0026 soda",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/cocktails-d5148a4.jpg?quality=90\u0026resize=440,400",
+  "Stars": 3.5,
+  "Ratings": 2,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Choose red, white or rosé vermouth to make this easy cocktail – ideal for a party. Garnish with green olives and a lemon slice for the professional finish",
+  "Ingredients": [
+   [
+    "ice",
+    "50ml vermouth (red, white or rosé)",
+    "sparkling water , to top up (around 200ml)"
+   ],
+   [
+    "3 green olives , skewered on a cocktail stick",
+    "lemon slice"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the garnish"
+  ],
+  "Method": [
+   "Fill a highball glass with the ice, then pour in the vermouth and top up with the sparkling water. Garnish with the skewered olives and lemon slice."
+  ]
+ },
+ {
+  "Id": 103,
+  "Name": "Bloody mary recipe",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/bloody-mary-a2983ba.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.5,
+  "Ratings": 9,
+  "Times": [
+   "Prep:5 mins",
+   "No cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Makes 2",
+  "Description": "Learn how to make the ultimate bloody mary with our easy recipe. Turn up the Tabasco spice or dial it down to mix this classic vodka cocktail to your taste",
+  "Ingredients": [
+   [
+    "large handful of ice",
+    "100ml vodka",
+    "500ml tomato juice",
+    "1 tbsp lemon juice, plus 2 slices to serve",
+    "few shakes Worcestershire sauce",
+    "few shakes Tabasco (smoked Tabasco is nice)",
+    "pinch celery salt",
+    "pinch black pepper",
+    "2 celery sticks, to serve"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Place the ice in a large jug. Measure the vodka, tomato juice and lemon juice and pour it straight onto the ice.",
+   "Add 3 shakes of Worcestershire sauce and Tabasco (or more if you like it very spicy) and a pinch of celery salt and pepper. Stir until the outside of the jug feels cold, then strain the cocktail into 2 tall glasses.",
+   "Top up with fresh ice, add a celery stick and lemon slice to both glasses and enjoy."
+  ]
+ },
+ {
+  "Id": 104,
+  "Name": "Mini Egg martini",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/mini-eggs-2-f7cbf80.jpg?quality=90\u0026resize=430,390",
+  "Stars": 4.800000190734863,
+  "Ratings": 4,
+  "Times": [
+   "Prep:10 mins",
+   "no cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Satisfy a nostalgic chocolate craving and enjoy this creamy Easter cocktail with moreish Mini Eggs and a splash of Baileys",
+  "Ingredients": [
+   [
+    "25g Cadbury's Mini Eggs (or your preferred brand of mini chocolate eggs)",
+    "1 tsp honey",
+    "25ml crème de cacao",
+    "25ml Baileys",
+    "50ml vodka",
+    "ice"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Crush the Mini Eggs in a pestle and mortar then tip onto a small plate. Brush the rim of a martini glass with a little of the honey using a pastry brush then dip the glass into the crushed Mini Eggs to stick them on. Pop the glass in the fridge until you need it.",
+   "Pour the crème de cacao, Baileys and vodka into a cocktail shaker with a handful of ice and shake until the outside of the shaker feels really cold. Strain into your prepared glass and serve."
+  ]
+ },
+ {
+  "Id": 105,
+  "Name": "Espresso old fashioned",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/espresso-old-fashioned-33dcc82.jpg?quality=90\u0026resize=440,400",
+  "Stars": 3.5999999046325684,
+  "Ratings": 3,
+  "Times": [
+   "Prep:5 mins",
+   "No cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Try this twist on an old fashioned cocktail, with a double shot of espresso accompanying the classic flavours of bourbon and Angostura bitters",
+  "Ingredients": [
+   [
+    "double shot (60ml) espresso",
+    "50ml bourbon",
+    "10ml brown sugar syrup",
+    "2 dashes Angostura bitters",
+    "ice",
+    "orange zest"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Mix a double shot (60ml) espresso with 50ml bourbon, 10ml brown sugar syrup and 2 dashes Angostura bitters in a shaker with lots of ice. Shake and strain into a short glass and garnish with a twist of orange zest."
+  ]
+ },
+ {
+  "Id": 106,
+  "Name": "Mint julep",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/mint-julep-1fb165b.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 1,
+  "Times": [
+   "Prep:5 mins",
+   "No cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Whisky cocktails don’t come much more refreshing than a mint julep. Serve over mounds of crushed ice and top with freshly picked garden mint",
+  "Ingredients": [
+   [
+    "65ml bourbon",
+    "10 mint leaves",
+    "12.5ml 2:1 sugar syrup (see tip, below)",
+    "ice , cubes and crushed"
+   ],
+   [
+    "a big mint sprig and a straw"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the garnish"
+  ],
+  "Method": [
+   "Shake the bourbon, mint leaves and sugar syrup with ice and strain into a highball glass or julep tin filled with crushed ice. Churn gently with a long-handled spoon and top with more crushed ice. Garnish and serve."
+  ]
+ },
+ {
+  "Id": 107,
+  "Name": "Frozen strawberry daiquiri",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/frozen-strawbz-329b8e5.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.199999809265137,
+  "Ratings": 9,
+  "Times": [
+   "Prep:10 mins",
+   "no cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 2",
+  "Description": "This slushy cocktail is best made when strawberries are in season and at their ripest. With just four ingredients you can whip up this thirst quencher in 10 minutes.Want to try making your own sugar syrup? Try our easy recipe and store in the fridge for future cocktails.",
+  "Ingredients": [
+   [
+    "500g strawberries, hulled",
+    "200g ice",
+    "100ml rum",
+    "juice 1/2 lime",
+    "1-2 tbsp sugar syrup,  optional"
+   ],
+   [
+    "2 slices of limes",
+    "1 strawberry, halved",
+    "2 cocktail sticks"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "Garnish"
+  ],
+  "Method": [
+   "Blend the strawberries then push the resulting puree through a sieve to remove some of the seeds. Tip the sieved puree into the blender again and add the ice, rum, 1-2 tbsp sugar syrup depending on how sweet you like your drinks and lime juice. Blend again and divide the mixture between 2 Martini glasses.",
+   "Thread the lime slices and strawberry halves onto the cocktail sticks and place onto the edge of the glass, serve immediately."
+  ]
+ },
+ {
+  "Id": 108,
+  "Name": "Piña colada tart",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/pina-colada-tart-37ff236.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.5,
+  "Ratings": 2,
+  "Times": [
+   "Prep:45 mins",
+   "Cook:55 mins",
+   "plus chilling"
+  ],
+  "Difficulty": "More effort",
+  "Serves": "Serves 10 - 12",
+  "Description": "Take pineapple, coconut and rum flavours from a classic cocktail into a stunning summer dessert with this piña colada tart with maraschino cherries on top",
+  "Ingredients": [
+   [
+    "250g plain flour, plus extra for dusting",
+    "75g icing sugar",
+    "125g unsalted butter, cubed",
+    "2 egg yolks"
+   ],
+   [
+    "5 eggs",
+    "140g caster sugar",
+    "150ml double cream",
+    "80ml pineapple juice, not from concentrate",
+    "2 small lemons, juiced "
+   ],
+   [
+    "300ml double cream",
+    "100ml coconut rum",
+    "maraschino cherries and cocktail umbrellas to garnish"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the pineapple filling",
+   "For the topping "
+  ],
+  "Method": [
+   "To make the pastry, mix the flour and icing sugar together in a bowl. Rub the butter into the flour with your fingertips until it resembles fresh breadcrumbs then mix in the egg yolks. If the pastry feels too dry to form a dough, add 2 tbsp water. Roll into a ball then flatten it out into a disc and wrap the dough in cling film, then chill for at least 30 mins.",
+   "While the pastry is chilling, make the filling by simply mixing all of the ingredients together in a large jug or bowl. Roll out the pastry on a lightly floured surface to about the thickness of a £1 coin, then lift into a 23cm tart tin. Press down gently on the bottom and sides, then trim off any excess around the edges with a sharp knife. Prick the base of the pastry case with a fork and put it back in the fridge for 30 mins.",
+   "Heat oven to 160C/140C fan/gas 3. Line the tart with baking parchment that you've crumpled and re-smoothed, then put baking beans or rice on top to hold the paper down. Bake for 10 mins, then remove the tart tin from the oven. Lift out the baking beans and paper, and bake for another 20 mins until golden and crisp.",
+   "When the pastry is cooked, remove it from the oven, pour in the pineapple mixture almost all the way to the top but leaving a small gap and bake again for 25 mins or until just set.",
+   "Leave to cool, then remove the tart from the tin and put it in the fridge to chill for 30 mins.",
+   "While the tart cools pour the double cream and coconut rum into a large bowl and whisk until thick and billowy. Dollop the boozy cream on top of the tart and decorate with maraschino cherries and cocktail umbrellas if you like."
+  ]
+ },
+ {
+  "Id": 109,
+  "Name": "Homemade raspberry vodka",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/drink-me-raspberry-vanilla-vodka-04da286.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 7,
+  "Times": [
+   "Prep:30 mins",
+   "No cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Makes just over 1 litre",
+  "Description": "Learn how to infuse your own flavoured spirit to give as a homemade gift or mix into cocktails",
+  "Ingredients": [
+   [
+    "500g raspberries",
+    "250g white caster sugar",
+    "2 vanilla pods , split down the centre",
+    "1l vodka"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Sterilise a 1.5 litre preserving jar (see tip, left). Tip the raspberries, sugar and vanilla into the jar.",
+   "Pour half the vodka into the jar. Seal the lid, then turn the jar upside down and give it a good shake to evenly distribute the sugar. Remove the lid and add the remaining vodka.",
+   "Ensure the jar is sealed and store in a cool dark place, turning/shaking once a day for the first week. After 2-3 weeks you can strain the vodka through a sieve lined with coffee filter papers or a clean kitchen cloth. Pour the vodka back into mini bottles and label. The vodka will keep its pink colour for a few months, but will be drinkable for 2 years."
+  ]
+ },
+ {
+  "Id": 110,
+  "Name": "Mango bellini",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/440x400-mango-bellini-52e0bbb.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4,
+  "Ratings": 1,
+  "Times": [
+   "Prep:10 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 2",
+  "Description": "Blend fresh fruit with champagne to make this fabulous mango bellini. It's great as a summer cocktail or a dinner party aperitif, or alongside a weekend brunch",
+  "Ingredients": [
+   [
+    "½  a very ripe mango",
+    "champagne"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Peel and chop the mango and put it into a blender with 100ml champagne. Blend to a smooth purée, then divide between two champagne flutes.",
+   "Top with more chilled champagne, pouring it slowly to avoid overflowing, then serve."
+  ]
+ },
+ {
+  "Id": 111,
+  "Name": "Rum punch",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/rum-punch-5c8fd79.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.699999809265137,
+  "Ratings": 6,
+  "Times": [
+   "Prep:5 mins",
+   "plus 1 hr chilling, no cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 2",
+  "Description": "Shivi Ramoutar's recipe for this classic Caribbean cocktail combines sweet and sour flavours for a fruity weekend tipple",
+  "Ingredients": [
+   [
+    "175ml freshly squeezed orange juice",
+    "75ml freshly squeezed lime juice",
+    "150ml good-quality golden rum",
+    "50ml sugar syrup",
+    "dash of grenadine syrup",
+    "dash of Angostura bitters",
+    "ice cubes, to serve",
+    "generous pinch of freshly grated nutmeg",
+    "2 thick slices orange, to garnish",
+    "maraschino cherries, to garnish"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Pour the juices, rum, sugar syrup, grenadine and Angostura bitters into a large jug and give it a good stir. Pop into the fridge to chill for 1 hr.",
+   "Serve over ice cubes, sprinkle over the nutmeg and garnish with an orange slice and maraschino cherry, speared with a cocktail stick."
+  ]
+ },
+ {
+  "Id": 112,
+  "Name": "Eastern breeze",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/eastern-breeze-fce3543.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 1,
+  "Times": [
+   "Prep:10 mins",
+   "no cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 6",
+  "Description": "Christmas is hectic enough, so this vibrant vegan cocktail couldn’t be simpler to make and is perfect for batch making quickly for a large group",
+  "Ingredients": [
+   [
+    "ice",
+    "300ml vodka",
+    "24 mint leaves",
+    "seeds from 1 pomegranate (about 1 heaped tsp per glass)",
+    "600ml apple juice"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Fill six highball or big wine glasses with ice and divide 300ml vodka between them. Add 24 mint leaves, seeds from 1 pomegranate (about 1 heaped tsp per glass) and 600ml apple juice, then stir with a straw or chopstick to muddle."
+  ]
+ },
+ {
+  "Id": 113,
+  "Name": "Salted caramel pecan sour",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/salted-caramel-pecan-sours-7a078e5.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 1,
+  "Times": [
+   "Prep:15 mins",
+   "Cook:5 mins"
+  ],
+  "Difficulty": "More effort",
+  "Serves": "Serves 6",
+  "Description": "A modern version of the classic sour cocktail, this is the ultimate Christmas drink. Salted caramel and Icelandic vodka make an irresistible mix",
+  "Ingredients": [
+   [
+    "100g pecans , finely chopped",
+    "160g golden caster sugar",
+    "½ tsp sea salt flakes",
+    "Reyka vodka",
+    "3 egg whites",
+    "120ml fresh clementine juice (about 2-3 clementines)",
+    "18 drops chocolate bitters (we used Fee brothers Aztec chocolate bitters)",
+    "ice",
+    "6 dehydrated orange slices , to serve",
+    "good grating of nutmeg , to serve"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Toast the pecans in a dry saucepan for 1-2 mins, then take off the heat. Quickly add the sugar and 80ml water, stir rapidly to dissolve the sugar, add the salt, then leave the mixture to cool completely. Pour through a sieve to remove the pecans.",
+   "Pour the pecan salted caramel syrup, vodka, egg whites, clementine juice and bitters into a cocktail shaker. Shake hard for 30 secs to add volume to the egg white. Add some ice and shake again for a further 15 secs, then strain into rocks or coupe glasses. Garnish each with a dehydrated orange slice and grate fresh nutmeg over, to taste. Serve immediately."
+  ]
+ },
+ {
+  "Id": 114,
+  "Name": "New York sour",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/new-york-sour-d294147.jpg?quality=90\u0026resize=440,400",
+  "Stars": 2.4000000953674316,
+  "Ratings": 3,
+  "Times": [
+   "Prep:10 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Kick back and enjoy a New York sour. With whiskey, red wine, orange bitters and lemon juice, one sip will whisk you away to a Manhattan cocktail bar",
+  "Ingredients": [
+   [
+    "50ml rye whiskey",
+    "25ml lemon juice",
+    "2 tsp maple syrup",
+    "dash  orange bitters",
+    "1 tbsp egg white",
+    "ice",
+    "20ml red wine"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Pour the whiskey, lemon juice, maple syrup and bitters into a cocktail shaker. Stir the egg white with a fork to loosen it, then add it to the shaker. Shake really well to froth up the egg white. Add a good handful of ice and shake again.",
+   "Once the outside of the shaker is really cold, double strain into a glass filled with ice. ",
+   "Slowly pour the red wine on top and leave to settle for a few moments – the wine will rise to just under the frothy egg white. "
+  ]
+ },
+ {
+  "Id": 115,
+  "Name": "Mince pie martini",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/mince-pie-martini-aeb7aee.jpg?quality=90\u0026resize=362,329",
+  "Stars": 5,
+  "Ratings": 2,
+  "Times": [
+   "Prep:10 mins",
+   "Cook:10 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Makes 4 x 75ml glasses",
+  "Description": "This clever cocktail packs all the classic flavours of spiced, fruity mincemeat into a perfect Christmas party cocktail",
+  "Ingredients": [
+   [
+    "100g golden caster sugar",
+    "50g mincemeat"
+   ],
+   [
+    "4 tbsp caster sugar",
+    "4 tsp mixed spice"
+   ],
+   [
+    "4 tsp mincemeat",
+    "100ml gin",
+    "100ml sweet red vermouth",
+    "20ml dark rum"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the garnish",
+   "For the cocktail"
+  ],
+  "Method": [
+   "To make a mincemeat syrup, put 100ml water, the golden caster sugar and mincemeat in a pan and bring to the boil. Cool and strain though muslin into a sieve. Separately, mix the caster sugar and mixed spice, then dampen the rims of 4 martini glasses and dip in the sugar and spice mixture.",
+   "Muddle the mincemeat in a cocktail shaker (you may need to make in 2 batches), then add the gin, sweet red vermouth, dark rum, 80ml mincemeat syrup and ice. Shake well and strain into your prepared glass."
+  ]
+ },
+ {
+  "Id": 116,
+  "Name": "St Nick's flip",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/st-nicks-flip-5a04f96.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 1,
+  "Times": [
+   "Prep:15 mins",
+   "no cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 6",
+  "Description": "Nick Jones and Leah de Felice Renton from Birds \u0026 Bats Wines describe their cocktail creation as a creamy Christmas dessert in a glass, sign us up!",
+  "Ingredients": [
+   [
+    "200ml cognac",
+    "150ml muscat wine (we used Rutherglen)",
+    "60ml simple syrup (we used Funkin Sugar Cane Syrup)",
+    "6 egg whites",
+    "120ml double cream",
+    "ice",
+    "6 strips of pared orange peel",
+    "6 cloves",
+    "6 pinches of ground cinnamon"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Pour a third of all the ingredients (except the pared orange, cloves and cinammon) into a cocktail shaker with a handful of ice.",
+   "Shake hard for 1 min, then strain into two wine glasses. Repeat twice more with the remaining ingredients using fresh ice each time. Stud each piece of pared orange with a clove, then use to garnish each glass along with a pinch of cinnamon."
+  ]
+ },
+ {
+  "Id": 117,
+  "Name": "Elderflower \u0026 gooseberry vodka",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/elderflower-gooseberry-vodka-1a03bff.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.5,
+  "Ratings": 2,
+  "Times": [
+   "Prep:45 mins",
+   "Cook:15 mins",
+   "plus at least 48 hrs infusing"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "makes 700ml",
+  "Description": "Add a shot of this fruity, fragrant infused vodka to a cocktail or serve simply with lemonade or tonic water",
+  "Ingredients": [
+   [
+    "300g gooseberries",
+    "20 elderflowers heads, flowers picked and stalks discarded",
+    "few strips lemon peel",
+    "700ml bottle good-quality vodka",
+    "350g golden caster sugar"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Divide the gooseberries between two 1-litre jars and very lightly bruise with the handle of a wooden spoon. Add the flowers, top with the lemon peel and pour over the vodka. Submerge the elderflowers with a circle of baking parchment and seal with a lid. Leave to infuse for at least 48 hrs or up to 1 week.",
+   "Once infused, line a sieve with kitchen paper and set over a large bowl. Pour in the vodka, then discard the strained berries and flowers.",
+   "Tip the sugar into a pan with 350ml water and gently heat until the sugar has dissolved. Turn up the heat, bring to a simmer and cook until syrupy and reduced by half – about 10 mins. Cool to room temperature, then add 100ml to the elderflower liquor. Stir well and taste, adding more until you are happy with the sweetness.",
+   "Decant the vodka into bottles and store in a cool, dark place. It will keep for years, but the flavour will diminish after a year."
+  ]
+ },
+ {
+  "Id": 118,
+  "Name": "Breakfast martini",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/breakfast-martini-b64ca4e.jpg?quality=90\u0026resize=440,400",
+  "Stars": 3,
+  "Ratings": 2,
+  "Times": [
+   "Prep:10 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Start your day the decadent way with this breakfast martini cocktail, with marmalade and lemon juice for zest, plus gin, aperitif wine and Grand Marnier",
+  "Ingredients": [
+   [
+    "1 tsp marmalade",
+    "ice",
+    "50ml gin of choice",
+    "15ml Grand Marnier",
+    "15ml aperitif wine (we used Cocchi Americano)",
+    "15ml lemon juice"
+   ],
+   [
+    "1 strip orange zest"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the garnish"
+  ],
+  "Method": [
+   "In a cocktail shaker place the spoonful of marmalade with ice, stirring to dilute. ",
+   "Add the rest of the ingredients and shake with more cubed ice for 10 seconds. Double strain by using the regular strainer in your cocktail shaker and holding a fine mesh strainer over your glass. Pour through both strainers into a martini coupe glass.",
+   "Garnish with orange zest."
+  ]
+ },
+ {
+  "Id": 119,
+  "Name": "Old fashioned",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/old-fashioned-5a4bab5.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4,
+  "Ratings": 8,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Makes 1",
+  "Description": "A traditional whisky cocktail with bitters, soda water and a simple orange garnish. Serve in a tumbler with plenty of ice",
+  "Ingredients": [
+   [
+    "2 tsp sugar syrup or 1 tsp granulated sugar",
+    "1-2 dashes Angostura bitters",
+    "splash of water",
+    "60ml Scotch whisky or bourbon",
+    "soda water (optional)",
+    "orange slice",
+    "maraschino cherry (optional)"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put the sugar, bitters and water in a small tumbler. Mix until the sugar dissolves if using granulated. Fill your glass with ice and stir in the whisky. Add a splash of soda water if you like and mix. Garnish with the orange and cherry."
+  ]
+ },
+ {
+  "Id": 120,
+  "Name": "Grapefruit spritz",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/grapefruit-sprtiz12529-3cc7927.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 1,
+  "Times": [
+   "Prep:5 mins",
+   "no cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Spritz up your Christmas party cocktail menu with a zesty grapefruit drink, topped off with a dash of Aperol and a splash of Prosecco. Garnish with a twist",
+  "Ingredients": [
+   [
+    "50ml grapefruit juice",
+    "25ml Aperol",
+    "ice",
+    "50ml prosecco",
+    "a twist of grapefruit zest"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Pour the grapefruit juice and Aperol into a chilled coupe glass. Add ice and gently stir to combine. Top up with the Prosecco, garnish with a twist of grapefruit zest and serve immediately."
+  ]
+ },
+ {
+  "Id": 121,
+  "Name": "Raspberry fizz",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/440x400-raspberry-fizz-77b53a3.jpg?quality=90\u0026resize=440,400",
+  "Stars": 3,
+  "Ratings": 2,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Serve this fruity cocktail at a garden party or wedding reception. With crushed fresh raspberries, raspberry liqueur and champagne, it's a real taste of summer",
+  "Ingredients": [
+   [
+    "4 raspberries",
+    "25ml raspberry liqueur (such as Chambord)",
+    "champagne"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put four raspberries in a mortar and crush with a pestle.",
+   "Scoop the crushed raspberries into a champagne flute, add the raspberry liqueur, then top with chilled champagne."
+  ]
+ },
+ {
+  "Id": 122,
+  "Name": "Simnel cake sour",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/amaretto-sour-8a299ee.jpg?quality=90\u0026resize=430,390",
+  "Stars": 4,
+  "Ratings": 4,
+  "Times": [
+   "Prep:10 mins",
+   "Cook:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 4",
+  "Description": "Looking for an Easter cocktail with all the spices of the season? This twist on an Amaretto sour has a splash of orange juice and a dusting of cinnamon to give you Simnel cake in a glass",
+  "Ingredients": [
+   [
+    "25ml kirsch or brandy",
+    "100ml amaretto",
+    "juice 1 lemon",
+    "juice 1 orange",
+    "100ml madeira",
+    "ice",
+    "50g golden marzipan"
+   ],
+   [
+    "100g golden caster sugar",
+    "thick strip of orange zest",
+    "1 tsp cinnamon",
+    "1 tsp mixed spice",
+    "pinch dried ginger"
+   ],
+   [
+    "4 cocktail sticks"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the spiced syrup",
+   "You will need"
+  ],
+  "Method": [
+   "Start by making the spiced syrup. Put all of the ingredients into a saucepan with 100ml water. Gently bring to the boil, then turn the heat off and allow to cool completely. Once cold, pour the mixture through a sieve into a jug and chill until needed. Will keep in the fridge for up to 1 week.",
+   "Heat grill to high then roll the marzipan in to 4 balls and place on a baking sheet and grill for 2-3 mins or just until the very top of the marzipan is toasted. Leave to cool then when cold enough to handle thread them on the cocktail stick",
+   "Fill 4 tumblers with ice then pour the brandy, Amaretto, lemon and orange juice, Madeira and 50ml of the syrup into a cocktail shaker with a large handful of ice. Shake well until the out side of the shaker feels icy cold. Strain into the tumblers and add the marzipan garnish. Serve immediately."
+  ]
+ },
+ {
+  "Id": 123,
+  "Name": "Winter whiskey sour",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/winter-whisky-sour-cocktail-eec30ee.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.5,
+  "Ratings": 2,
+  "Times": [
+   "Prep:10 mins",
+   "No cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Makes 2",
+  "Description": "This classic bourbon cocktail takes a festive turn with a splash of orange juice and edible gold glitter - perfect for Christmas parties",
+  "Ingredients": [
+   [
+    "crushed ice",
+    "50ml bourbon",
+    "1 tbsp fresh lemon juice",
+    "1 tbsp fresh orange juice",
+    "½ tbsp sugar syrup",
+    "2 slices of oranges"
+   ],
+   [
+    "honey",
+    "gold edible glitter"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "To decorate"
+  ],
+  "Method": [
+   "Using a small paintbrush (or your finger), brush some honey around the rim of two tumblers and use another small paintbrush to stick edible gold glitter around each.",
+   "Fill each glass with crushed ice. Put the bourbon into a cocktail shaker with the lemon juice, orange juice and sugar syrup. Shake and strain into each glass, and serve with an orange slice and short straws."
+  ]
+ },
+ {
+  "Id": 124,
+  "Name": "Reverse espresso martini",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/reverse-martini_0-a0b70b0.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4,
+  "Ratings": 1,
+  "Times": [
+   "Prep:10 mins",
+   "plus freezing, no cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Everyone loves a martini. Perk up this twist on a classic cocktail with a festive splash of Baileys and a shot of coffee to help you party on",
+  "Ingredients": [
+   [
+    "30ml freshly brewed espresso",
+    "50ml vodka",
+    "25ml Baileys"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Freeze the espresso in an ice cube tray until frozen solid. Pour the vodka and baileys into a cocktail shaker filled with ice. Stir together for about 1 min then strain into a tumbler. Put 4-5 coffee ice cubes into the drink to serve."
+  ]
+ },
+ {
+  "Id": 125,
+  "Name": "Spiced apple snaps fizz",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/spiced-apple-snaps-fizz-a8029d4.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 1,
+  "Times": [
+   "Prep:10 mins",
+   "No cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 2",
+  "Description": "This cocktail uses a punchy aquavit scented with caraway, aniseed and fennel and sparkling wine - you can use gin, if you prefer",
+  "Ingredients": [
+   [
+    "50ml Swedish aquavit (I used O.P. Anderson), or use gin",
+    "squeeze of lemon juice",
+    "4 tbsp cloudy apple juice",
+    "2 pinches of ground cinnamon",
+    "handful ice cubes",
+    "200ml bottle sparkling wine",
+    "½ small apple , cored and thinly sliced"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Pour the aquavit or gin into a cocktail shaker or large jam jar. Add a good squeeze of lemon juice, the apple juice, a generous pinch of cinnamon and a handful of ice cubes, pop on the lid and shake well.",
+   "Strain into 2 fluted glasses and top up with sparkling wine. Sprinkle the apple slices with the remaining cinnamon and thread onto 2 cocktail sticks. Balance a cocktail stick across the rim of each glass and serve straight away."
+  ]
+ },
+ {
+  "Id": 126,
+  "Name": "White russian",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/white-russian-d858c59.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.699999809265137,
+  "Ratings": 8,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Makes 1",
+  "Description": "We like this classic vodka cocktail made with fresh cream – the Kahlúa liqueur adds a coffee-infused finish",
+  "Ingredients": [
+   [
+    "60ml vodka",
+    "2 tbsp Kahlúa",
+    "1 tbsp cream"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Mix together all the ingredients. Put some ice cubes in a small tumbler and pour the cocktail over the top."
+  ]
+ },
+ {
+  "Id": 127,
+  "Name": "Mango Pisco sour",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/mango-pisco-sour-137131f.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 1,
+  "Times": [
+   "Prep:10 mins",
+   "Cook:10 mins",
+   "plus cooling"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 4",
+  "Description": "Sweet, sour and summery - this fruity Peruvian cocktail is made with fresh mango and root ginger",
+  "Ingredients": [
+   [
+    "300g mango pieces",
+    "100g granulated sugar",
+    "a thin slice root ginger",
+    "juice 3 limes",
+    "200ml Pisco",
+    "1 egg white",
+    "Angostura bitters , to finish"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put the mango pieces, granulated sugar and root ginger into a medium-sized saucepan and add 100ml water. Stir and bring to a simmer for 7-8 mins or until the mango is starting to soften. Take off the heat and allow to cool for 10-15 mins.",
+   "Pour the cooled mango syrup through a sieve into a cocktail shaker. Add the lime juice, Pisco and egg white. Fill to the top with ice, shake well, then strain into 4 tumblers. Add a couple of shakes of Angostura bitters to each one and serve."
+  ]
+ },
+ {
+  "Id": 128,
+  "Name": "Hedgerow royale",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/royale-41c9e4c.jpg?quality=90\u0026resize=440,400",
+  "Stars": 3.4000000953674316,
+  "Ratings": 3,
+  "Times": [
+   "Prep:5 mins",
+   "no cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "This slightly sweet, slightly sharp Prosecco royale mixed with sloe gin is the perfect festive cocktail to kick off your Christmas party",
+  "Ingredients": [
+   [
+    "crushed ice",
+    "50ml prosecco",
+    "1 rosemary sprig",
+    "25ml sloe gin",
+    "25ml cherry brandy"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Fill a coupe glass with crushed ice and pour over the Prosecco. Hold the rosemary sprig in the palm of your hand and clap the other hand sharply over it to lightly bruise the leaves before dropping it into the glass. Slowly pour the sloe gin and cherry brandy into the glass so that they sink to the bottom. Serve immediately."
+  ]
+ },
+ {
+  "Id": 129,
+  "Name": "Clementine martini",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/clememtini-2a81fcc.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 4,
+  "Times": [
+   "Prep:10 mins",
+   "plus chilling (no cook)"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Makes about 10 ",
+  "Description": "This sparkling, citrus cocktail is one to serve at a celebration. Blend clementine juice with vodka, orange liqueur and fizz",
+  "Ingredients": [
+   [
+    "juice 6  clementines , plus 2 for serving",
+    "100ml vodka",
+    "100ml Cointreau",
+    "1 bottle  prosecco , Cava or Champagne, well chilled"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put some Martini glasses (or champagne flutes) into the freezer. Mix the clementine juice, vodka and Cointreau in a jug, then chill for 1 hr (or up to 1 day). Thinly slice the 2 clementines to use as a garnish.",
+   "To serve, put a clementine slice into each frosty glass. Fill almost halfway with the chilled jug mixture, then open the bottle of fizz and top up the glasses."
+  ]
+ },
+ {
+  "Id": 130,
+  "Name": "Purple rain",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/purple-rain-8c25797.jpg?quality=90\u0026resize=440,400",
+  "Stars": 2,
+  "Ratings": 1,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 4",
+  "Description": "Throwing a party? Mix up a batch of our easy purple rain cocktail for a fun, retro drink option. Everyone will enjoy this colourful, creative serve",
+  "Ingredients": [
+   [
+    "ice",
+    "75ml vodka",
+    "75ml gin",
+    "50ml blue curaçao",
+    "50ml lime juice",
+    "50ml lemon juice",
+    "200ml soda water",
+    "100ml - 150ml grenadine",
+    "lime slices, to garnish"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Half-fill a 1.5-litre jug with ice, then pour in the vodka, gin, blue curaçao, lime juice and lemon juice and stir well. Top up with the soda water, grenadine and more ice, then stir again. Half-fill four highball glasses with ice, pour over the cocktail and garnish with the slices of lime."
+  ]
+ },
+ {
+  "Id": 131,
+  "Name": "Peach \u0026 rose fizz",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/fizz_0-b2046ee.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 1,
+  "Times": [
+   "Prep:5 mins",
+   "No cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Makes 8",
+  "Description": "A simple chilled Prosecco cocktail made with fresh juice and rosewater",
+  "Ingredients": [
+   [
+    "500ml  peach juice, chilled",
+    "½ tsp rosewater",
+    "750ml bottle  prosecco , chilled"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Mix the peach juice and rose water in a jug. Divide between 8 Champagne flutes or cocktail glasses, then top up with Prosecco. Serve immediately."
+  ]
+ },
+ {
+  "Id": 132,
+  "Name": "Kanpai colada",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/05/Kanpai-colada-833653d.jpg?quality=90\u0026resize=556,505",
+  "Stars": 0,
+  "Ratings": 0,
+  "Times": [
+   "Prep:15 mins",
+   "plus 24 hrs macerating"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "This take on a traditional piña colada has a splash of sake and sweet mango cordial. It's an ideal summer sipping cocktail",
+  "Ingredients": [
+   [
+    "30ml yuzu sake",
+    "70ml pineapple juice, plus pineapple leaves to garnish (optional)",
+    "15ml coconut liqueur (we used Kalani)",
+    "15ml lime juice, plus a lime wedge to garnish (optional)",
+    "15ml mango cordial (see below)",
+    "ice"
+   ],
+   [
+    "200  sugar",
+    "200g  chopped mango (prepared weight)",
+    "50ml  lemon juice"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the mango cordial"
+  ],
+  "Method": [
+   "First, make the mango cordial. Tip the sugar into an airtight container, add the mango and leave at room temperature for 24 hrs. After 24 hours, add 100ml water and stir. Strain the liquid into a jug through a fine mesh sieve, discarding the mango. Stir in the lemon juice. Will keep in a sealed container in the fridge for up to a week.",
+   "Put a hurricane glass into the fridge to chill. Pour the sake, pineapple juice, coconut liqueur, lime juice and 15ml of the mango cordial into a cocktail shaker filled with ice. Shake vigorously for approximately 10 seconds. Once the glass is cold, strain in the cocktail and garnish with pineapple leaves or a lime wedge, if you like."
+  ]
+ },
+ {
+  "Id": 133,
+  "Name": "Seishu martini",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/05/seishu-martini-87f8fe7.jpg?quality=90\u0026resize=556,505",
+  "Stars": 0,
+  "Ratings": 0,
+  "Times": [
+   "Prep:10 mins",
+   "plus chilling"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Try a different take on a favourite cocktail with this simple citrus martini. Add lemon bitters, dry vermouth and sake for a zingy twist",
+  "Ingredients": [
+   [
+    "70ml honjozo sake",
+    "10ml dry vermouth",
+    "2 dashes of lemon bitters",
+    "ice",
+    "lemon peel twist, to garnish"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put a martini or coupe glass in the freezer for 5 mins to chill. Pour the sake and vermouth into a stirring glass, measuring jug or pint glass and shake over two dashes of lemon bitters. Fill the glass with ice, then stir with a bar or other long spoon for 10-20 seconds (the longer you stir, the softer the taste of alcohol – stir longer for more dilution).",
+   "Strain the cocktail into the cold martini or coupe glass, then garnish with a lemon peel twist."
+  ]
+ },
+ {
+  "Id": 134,
+  "Name": "Akaibara cooler",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/05/Akaibara-cooler-main-43203df.jpg?quality=90\u0026resize=556,505",
+  "Stars": 0,
+  "Ratings": 0,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Enjoy this delicate gin cocktail with a balance of sweet and herbal flavours thanks to rose vermouth and pink lemonade. Best enjoyed on summer afternoons",
+  "Ingredients": [
+   [
+    "ice",
+    "30ml Japanese gin (we used Suntory Roku)",
+    "15ml Lillet Rose vermouth",
+    "10ml Lanique rose petal liqueur",
+    "100ml pink lemonade",
+    "edible rose petals or red berries,  to garnish"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Fill a highball glass with ice. Pour in the gin, vermouth and rose petal liqueur.",
+   "Top up with the pink lemonade, then garnish with edible rose petals or a handful of red berries."
+  ]
+ },
+ {
+  "Id": 135,
+  "Name": "Honjozo highball",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/05/Honjozo-highball-3cb6451.jpg?quality=90\u0026resize=556,505",
+  "Stars": 0,
+  "Ratings": 0,
+  "Times": [
+   "Cook:15 mins",
+   "plus 24 hrs macerating"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Try this simple and refreshing sake cocktail made with green apple and fiery ginger flavours. The homemade cordial will keep for up to a week",
+  "Ingredients": [
+   [
+    "ice",
+    "30ml honjozo sake",
+    "20ml green apple \u0026 ginger cordial (see below)",
+    "100ml soda water"
+   ],
+   [
+    "200g sugar",
+    "200g chopped Granny Smith apples  (prepared weight), plus apple slices to garnish",
+    "10g  ginger, peeled and sliced, plus matchsticks to garnish",
+    "50ml lemon juice"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the green apple \u0026 ginger cordial"
+  ],
+  "Method": [
+   "First, make the cordial. Tip the sugar into an airtight container, add the apples and ginger and leave at room temperature for 24 hrs. Add 100ml water and stir. Sieve the liquid into a jug through a fine mesh sieve, discarding the apple and ginger. Stir in the lemon juice. Will keep in a sealed container in the fridge for up to a week.",
+   "Fill a highball glass with ice. Pour over the sake and green apple \u0026 ginger cordial, then top up with the soda water and garnish with apple slices and some ginger."
+  ]
+ },
+ {
+  "Id": 136,
+  "Name": "Kir impériale",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/05/Kir-imperiale-d972175.jpg?quality=90\u0026resize=556,505",
+  "Stars": 0,
+  "Ratings": 0,
+  "Times": [
+   "Cook:5 mins",
+   "plus chilling"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "If you're a fan of sweet and sharp blackcurrant cassis, try this twist on a classic kir royale cocktail made with sparkling sake",
+  "Ingredients": [
+   [
+    "15ml crème de cassis",
+    "100ml sparkling sake (we used Akashi-Tai Junmai sparkling sake)",
+    "orange peel twist,  to garnish"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put a champagne flute into the fridge to chill. Once cold, pour in the crème de cassis.",
+   "Pour the sparkling sake into the glass over the back of a spoon to create a layered drink. Garnish with an orange peel twist and serve."
+  ]
+ },
+ {
+  "Id": 137,
+  "Name": "Rosé sangria",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/rose-sangria-93de2aa-scaled.jpg?quality=90\u0026resize=556,505",
+  "Stars": 4.699999809265137,
+  "Ratings": 3,
+  "Times": [
+   "Prep:10 mins",
+   "Plus chilling, no cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 4",
+  "Description": "This refreshing fruity drink is perfect for warmer weather, with nectarines, strawberries and orange liqueur - easily doubled for parties",
+  "Ingredients": [
+   [
+    "3 nectarines or peaches, stoned and sliced",
+    "200g strawberries , sliced",
+    "750ml bottle Spanish rosé wine",
+    "juice 1 orange",
+    "1 tbsp golden caster sugar",
+    "50ml orange liqueur (we used Grand Marnier)",
+    "300ml sparkling water",
+    "small handful mint sprigs"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put all the ingredients, except the sparkling water and mint, in a large jug and stir to combine. Leave in the fridge for about 1 hr or until chilled, then top up with sparkling water and garnish with mint leaves to serve."
+  ]
+ },
+ {
+  "Id": 138,
+  "Name": "Lemon \u0026 elderflower fizz",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/fizz-4c9c163.jpg?quality=90\u0026resize=440,400",
+  "Stars": 5,
+  "Ratings": 3,
+  "Times": [
+   "Prep:10 mins",
+   "No cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Makes 6 glasses",
+  "Description": "Raise a toast with this zesty cocktail with a gin and sparkling prosecco base and lemon sorbet and elderflower cordial mixers",
+  "Ingredients": [
+   [
+    "75ml gin",
+    "juice ½ lemon",
+    "2 tsp caster sugar",
+    "50ml elderflower cordial",
+    "750ml bottle  prosecco",
+    "4 tbsp lemon  sorbet"
+   ],
+   [
+    "2 tbsp caster sugar",
+    "juice and strips of zest from ½ lemon"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "To decorate"
+  ],
+  "Method": [
+   "To decorate the glasses with a sugar rim, tip the sugar onto a flat plate and the lemon juice into a bowl. Dip the rim of each glass in the juice, then the sugar.",
+   "Put the gin, lemon juice, sugar and elderflower cordial into a large jug. Stir until the sugar has dissolved. Add the prosecco, then the sorbet, and give it a good stir. Pour into the prepared glasses and pop in a few strips of lemon zest."
+  ]
+ },
+ {
+  "Id": 139,
+  "Name": "Zesty spritz",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/07/zesty-spritz-cocktail-ec087b8.jpg?quality=90\u0026resize=556,505",
+  "Stars": 0,
+  "Ratings": 0,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Make a refreshing, zesty spritz with our simple summer cocktail recipe, using sharp blood orange, bitters and prosecco for a dash of fun fizz",
+  "Ingredients": [
+   [
+    "3 dashes orange bitters",
+    "60ml blood orange liqueur",
+    "90ml prosecco",
+    "30ml soda water",
+    "1 orange slice,  or grapefruit slice"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Add all the ingredients to a high ball glass or a large wine glass and mix briefly. Top up with ice and garnish with an orange or grapefruit slice."
+  ]
+ },
+ {
+  "Id": 140,
+  "Name": "Stollen sour",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/stollen-sour-3dde563.jpg?quality=90\u0026resize=440,400",
+  "Stars": 3,
+  "Ratings": 1,
+  "Times": [
+   "Prep:10 mins",
+   "Cook:10 mins",
+   "plus soaking and cooling"
+  ],
+  "Difficulty": "More effort",
+  "Serves": "Makes 4",
+  "Description": "Sweet and sophisticated, this spiced cocktail with amaretto and madeira makes a perfect Christmas party drink, topped with a festive dried fruit cocktail stick",
+  "Ingredients": [
+   [
+    "8 sultanas",
+    "1 dried apricot , quartered",
+    "4 cocktail cherries",
+    "4 dried cranberries",
+    "1 tsp orange liqueur",
+    "150ml amaretto",
+    "100ml freshly squeezed lemon juice (about 2 lemons)",
+    "75ml madeira",
+    "crushed ice"
+   ],
+   [
+    "100g golden caster sugar",
+    "thick strip pared orange zest",
+    "thick strip pared lemon zest",
+    "1 tsp cinnamon",
+    "1 tsp mixed spice",
+    "good grating of nutmeg"
+   ],
+   [
+    "4 cocktail sticks"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients",
+   "For the spiced syrup",
+   "You will need"
+  ],
+  "Method": [
+   "First, make the spiced syrup. Put all the ingredients in a saucepan with 100ml water. Heat gently until boiling, then turn the heat off and allow to cool. Strain through a fine sieve into a jug and chill until needed. Can be made 1 week ahead.",
+   "While the syrup is cooling, tip the sultanas, apricot, cherries and cranberries into a small bowl and add the orange liqueur. Leave to steep for around 30 mins (or up to 24 hrs).",
+   "When you’re ready to serve, take 4 cocktail sticks and thread 2 sultanas, a piece of dried apricot, a cherry and cranberry onto each one. Fill 4 tumblers with crushed ice.",
+   "Pour the amaretto, lemon juice, madeira and 50ml of the spiced syrup into a cocktail shaker (along with any leftover orange liqueur) with a handful of ice. Shake well until the outside of the cocktail shaker feels cold, then strain into the prepared glasses. Add the dried fruit cocktail sticks and serve immediately."
+  ]
+ },
+ {
+  "Id": 141,
+  "Name": "Cranberry sours",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/cranberry-sours-c26a4c4.jpg?quality=90\u0026resize=556,505",
+  "Stars": 5,
+  "Ratings": 1,
+  "Times": [
+   "Prep:10 mins",
+   "No cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Makes 400ml",
+  "Description": "These fruity cocktails are short and sharp, with frozen cranberries, orange liqueur, Disaronno, lime juice and maple syrup",
+  "Ingredients": [
+   [
+    "300g pack frozen cranberries , defrosted",
+    "100ml orange liqueur (We used Cointreau)",
+    "1 tbsp Disaronno liqueur",
+    "100ml fresh orange juice",
+    "2 tbsp lime juice",
+    "2-3 tbsp maple syrup , to taste",
+    "big bag of crushed ice , to serve"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put the cranberries, liqueurs, orange and lime juices and the maple syrup into a food processor or blender. Blitz until the berries are as finely chopped as possible.",
+   "Strain through a fine sieve, working the cranberry pulp against the mesh with a spatula or small ladle until you have extracted all of the liquid. Chill until needed. When ready to serve, fill small glasses with crushed ice, then pour over the almost fluorescent pink cocktail."
+  ]
+ },
+ {
+  "Id": 142,
+  "Name": "Claridge’s sazerac",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/claridges-sazerac-64aa0d9.jpg?quality=90\u0026resize=440,400",
+  "Stars": 0,
+  "Ratings": 0,
+  "Times": [
+   "Prep:10 mins",
+   "plus freezing"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Mix whiskey, cognac and absinthe with bitters to make this chic cocktail, adapted from Cecil Beaton’s Cocktail Book, produced by the National Portrait Gallery in collaboration with Claridge’s",
+  "Ingredients": [
+   [
+    "2 drops of absinthe (we used Pernod)",
+    "30ml rye whiskey (we used Michter’s)",
+    "30ml cognac (we used Rémy Martin VSOP)",
+    "2 drops of Peychaud’s bitters",
+    "5ml sugar syrup",
+    "1 strip of lemon peel , to garnish"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put a tumbler in the freezer. When it’s freezing cold, pour in the absinthe, swirl it so it thinly coats the inside of the glass, then tip it away. This is called rinsing. ",
+   "Stir the remaining ingredients, except the lemon peel garnish, together in a mixing glass, then strain into the prepared tumbler. ",
+   "Garnish with the lemon peel and serve."
+  ]
+ },
+ {
+  "Id": 143,
+  "Name": "Gin sling",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/04/gin-sling-3254030.jpg?quality=90\u0026resize=556,505",
+  "Stars": 0,
+  "Ratings": 0,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Mix up an elegant gin sling cocktail in a flash with our simple recipe. Garnish with rosemary and lemon and try topping up with pine soda for a fresh twist",
+  "Ingredients": [
+   [
+    "50ml gin",
+    "20ml lemon juice",
+    "15ml sugar syrup",
+    "2 dashes Angostura bitters",
+    "ice",
+    "tonic water and soda water, or pine soda,  to taste",
+    "rosemary sprig and lemon wedge, to garnish"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put the gin, lemon juice, sugar syrup and bitters into a cocktail shaker and add a large handful of ice. Shake to combine and strain into a tall glass filled with more ice.",
+   "Top up with equal parts tonic and soda water, or pine soda. Garnish with a rosemary sprig and lemon wedge."
+  ]
+ },
+ {
+  "Id": 144,
+  "Name": "Aviation",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/aviation-dfe7f92.jpg?quality=90\u0026resize=440,400",
+  "Stars": 0,
+  "Ratings": 0,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 4",
+  "Description": "Try our pretty-in-pink aviation cocktail for a fun, retro party drink. This easy gin-based drink is one to get the party started and is ready in just 5 minutes",
+  "Ingredients": [
+   [
+    "100ml gin",
+    "50ml lemon juice",
+    "50ml maraschino liqueur",
+    "25ml crème de violette",
+    "ice",
+    "blueberries and lemon zest, to garnish"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Pour the gin, lemon juice, maraschino liqueur and crème de violette into a cocktail shaker with a handful of ice and shake well. Taste, then add a splash of chilled water to dilute, if you like. Strain into four chilled cocktail glasses and garnish with blueberries and lemon zest."
+  ]
+ },
+ {
+  "Id": 145,
+  "Name": "Cosmopolitan",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/cosmo-3491e1f.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4,
+  "Ratings": 6,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Makes 2",
+  "Description": "A classic cocktail recipe for those who like a touch of citrus sweetness. Blend vodka with orange liqueur, cranberry juice and lime, then serve in chilled martini glasses",
+  "Ingredients": [
+   [
+    "120ml vodka",
+    "60ml orange liqueur",
+    "60ml cranberry juice",
+    "juice of 1 lime"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Stir the ingredients and a little ice together or put them in a cocktail shaker to combine. Strain into two chilled martini glasses."
+  ]
+ },
+ {
+  "Id": 146,
+  "Name": "Martini",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/martini-3e9a33e.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4.300000190734863,
+  "Ratings": 3,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Makes 1",
+  "Description": "Our version of the ultimate classic cocktail is stirred, not shaken. Serve your martini with a twist of lemon, or an olive",
+  "Ingredients": [
+   [
+    "60ml vodka or gin",
+    "1 tbsp dry vermouth",
+    "olive or lemon peel, to garnish"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Stir the gin or vodka, dry vermouth and a little ice together or put them in a cocktail shaker to combine. ",
+   "Strain into a chilled martini glass. Serve with an olive on a cocktail stick or a twist of lemon peel."
+  ]
+ },
+ {
+  "Id": 147,
+  "Name": "Sazerac",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/05/sazerac-984b2f5.jpg?quality=90\u0026resize=556,505",
+  "Stars": 0,
+  "Ratings": 0,
+  "Times": [
+   "Prep:10 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 4",
+  "Description": "Indulge in a classic sazerac cocktail, with whiskey, absinthe, bitters and an orange garnish. Try on the rocks if you’d prefer",
+  "Ingredients": [
+   [
+    "2 tsp absinthe",
+    "50ml sugar syrup",
+    "1 tsp Peychaud's bitters",
+    "½ tsp  Angostura bitters",
+    "200ml rye whiskey",
+    "ice",
+    "4 strips of orange zest"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Take four tumblers and pour the absinthe into the first one. Swirl around to coat the inside of the glass then pour into the next glass. Repeat until all the glasses have been coated with the absinthe. If there’s any left, divide it equally between all of the glasses.",
+   "Pour the sugar syrup, both types of bitters and whiskey into a large mixing glass or jug. Add 25ml cold water and a good handful of ice. Stir until the outside of the vessel feels really cold. Taste – if it’s too sweet or strong, keep stirring to dilute it further.",
+   "Strain into your prepared glasses. Twist a piece of orange zest over a glass to release a little of the citrus oils, then drop it in. Do this for each of cocktail just before serving."
+  ]
+ },
+ {
+  "Id": 148,
+  "Name": "Grapefruit mojitos",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/grapefruit_mojito_square-2a8fe00.jpg?quality=90\u0026resize=440,400",
+  "Stars": 4,
+  "Ratings": 3,
+  "Times": [
+   "Prep:10 mins",
+   "No cook"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 8",
+  "Description": "Just when you thought this classic rum and mint cocktail couldn't get any better - grapefruit juice adds a sunshine tang",
+  "Ingredients": [
+   [
+    "juice 3  pink grapefruits , plus 1 thinly sliced",
+    "small pack mint",
+    "140g golden caster sugar",
+    "250ml white rum",
+    "1l soda water"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put the grapefruit juice, most of the mint and the sugar in a large jug. Crush the ingredients together with the end of a rolling pin to release the flavour from the mint and dissolve the sugar. Add the rum, mix well and top up with soda water and ice. Add the sliced grapefruit and remaining mint before serving."
+  ]
+ },
+ {
+  "Id": 149,
+  "Name": "Irish whiskey old fashioned",
+  "Image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/irish-whiskey-old-fashioned-a1b4d72.jpg?quality=90\u0026resize=440,400",
+  "Stars": 0,
+  "Ratings": 0,
+  "Times": [
+   "Prep:5 mins"
+  ],
+  "Difficulty": "Easy",
+  "Serves": "Serves 1",
+  "Description": "Add a twist to an old fashioned and use elderflower cordial in place of the usual orange. It’s a sophisticated cocktail to add to a dinner party",
+  "Ingredients": [
+   [
+    "40ml Irish whiskey",
+    "10ml elderflower cordial",
+    "10ml Sauternes",
+    "ice",
+    "pared lemon zest, to garnish"
+   ]
+  ],
+  "IngredientHeadings": [
+   "Ingredients"
+  ],
+  "Method": [
+   "Put everything except the lemon zest in a tumbler and give it a quick stir to combine and dilute. Garnish with the lemon zest to serve."
+  ]
+ }
+]

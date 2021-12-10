@@ -49,3 +49,20 @@ func RandomCocktail(ginReturn *gin.Context) {
 	}
 
 }
+
+func RandomDinner(ginReturn *gin.Context) {
+	ginReturn.Writer.Header().Set("Access-Control-Allow-Origin", "*")
+	dinnerRecipes := []recipe{}
+	file, _ := ioutil.ReadFile("recipes/dinner.json")
+
+	_ = json.Unmarshal([]byte(file), &dinnerRecipes)
+	min := 1
+	max := 487
+	dinnerId := rand.Intn(max-min) + min
+	for _, dinnerRecipe := range dinnerRecipes {
+		if dinnerRecipe.Id == dinnerId {
+			ginReturn.IndentedJSON(http.StatusOK, dinnerRecipe)
+		}
+	}
+
+}

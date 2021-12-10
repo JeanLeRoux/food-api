@@ -12,6 +12,7 @@ type User struct {
 func main() {
 	router := gin.Default()
 	router.GET("/randomCocktail", RandomCocktail)
+	router.GET("/randomDinner", RandomDinner)
 	router.Run()
 	// webscraper()
 }

@@ -100,3 +100,33 @@ func GetDinner(ginReturn *gin.Context) {
 
 	ginReturn.IndentedJSON(http.StatusOK, batch)
 }
+
+func RandomDessert(ginReturn *gin.Context) {
+	ginReturn.Writer.Header().Set("Access-Control-Allow-Origin", "*")
+	desserts := []recipe{}
+	file, _ := ioutil.ReadFile("recipes/dessert.json")
+
+	_ = json.Unmarshal([]byte(file), &desserts)
+	min := 1
+	max := 149
+	dessertId := rand.Intn(max-min) + min
+	for _, dessert := range desserts {
+		if dessert.Id == dessertId {
+			ginReturn.IndentedJSON(http.StatusOK, dessert)
+		}
+	}
+}
+
+func GetDessert(ginReturn *gin.Context) {
+	ginReturn.Writer.Header().Set("Access-Control-Allow-Origin", "*")
+	dessertId, _ := strconv.Atoi(ginReturn.Query("LastId"))
+	dessertRecipes := []recipe{}
+	file, _ := ioutil.ReadFile("recipes/dessert.json")
+	_ = json.Unmarshal([]byte(file), &dessertRecipes)
+	batch := recipeBatch{
+		Recipes: dessertRecipes[dessertId : dessertId+10],
+		LastId:  dessertId + 10,
+	}
+
+	ginReturn.IndentedJSON(http.StatusOK, batch)
+}

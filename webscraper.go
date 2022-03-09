@@ -96,16 +96,16 @@ func webscraper() {
 		recipes = append(recipes, temp)
 	})
 
-	for i := 1; i <= 36; i++ {
+	for i := 1; i <= 37; i++ {
 		var visitUrl string
 		if i == 1 {
-			visitUrl = "https://www.bbcgoodfood.com/search/recipes/?q=dinner&sort=-relevance&meal-type=dinner&meal-type=main-course"
+			visitUrl = "https://www.bbcgoodfood.com/search?q=dessert"
 		} else {
-			visitUrl = fmt.Sprintf("https://www.bbcgoodfood.com/search/recipes/page/%s/?q=dinner&sort=-relevance&meal-type=dinner&meal-type=main-course", strconv.Itoa(i))
+			visitUrl = fmt.Sprintf("https://www.bbcgoodfood.com/search/recipes/page/%s/?q=dessert&sort=-relevance", strconv.Itoa(i))
 		}
 		c.Visit(visitUrl)
 	}
 	// c.Visit("https://www.bbcgoodfood.com/search/recipes?q=Easy+dinner+recipes")
 	file, _ := json.MarshalIndent(recipes, "", " ")
-	_ = ioutil.WriteFile("recipes/dinner.json", file, 0644)
+	_ = ioutil.WriteFile("recipes/dessert.json", file, 0644)
 }
